@@ -72,7 +72,7 @@ POSTER_KO.update({
         "QS 2026년판 외국인 학생 비율 지표 순위 (서울대학교총동창신문 보도)",
     "Requirements, separately": "요건은 별도로",
     "An AI model wrote them once from the official documents, and a second AI model from another maker re-read them.":
-        "AI 모델이 공식 문서를 바탕으로 한 번 작성했고, 개발사가 다른 두 번째 AI 모델이 다시 읽었습니다.",
+        "AI 모델이 공식 문서를 바탕으로 한 번 작성했고, 다른 개발사에서 만든 두 번째 AI 모델로 다시 검수했습니다.",
     "scheduled check for new notices": "매일 예약된 새 공지 확인",
     "departments read by one automatic job": "하나의 자동 작업이 읽는 학과 수",
     "Claude writes the English. An OpenAI model, from a different maker, re-read every requirement card against the Korean.":
