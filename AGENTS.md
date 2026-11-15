@@ -197,8 +197,8 @@ start a second department's requirements before 20 Nov was lifted by the develop
   it to `out/poster/poster.pdf` with Chrome, then measures the page. Six numbered panels in the site's look: Why now,
   The gap, What it does, How it works, Checked, Try it. Rebuild it just before sending so "Figures as of" is that day.
 - The author's name is read from `out/poster/author.txt` and never written in a published file.
-- Korean lines written only for the poster are in `POSTER_KO` and listed in `out/poster/korean-review.md`. None has been
-  read by a Korean speaker; that must happen before the poster is sent (20 Nov).
+- Korean lines written only for the poster are in `POSTER_KO` and listed in `out/poster/korean-review.md`. A Korean
+  teacher read the poster on 16 Nov (see the end of this file); a line changed after that is unread again.
 - The developer finds long text tiring. Add a line only by removing or shortening another, and check that no panel
   overflows after any change (each panel's `.body` must not scroll).
 
@@ -715,3 +715,11 @@ separated, and a new "clean" look written by a Sonnet agent from a brief) and ch
   is in no current file, not on the site and not in the source archive.
 - The developer called the project wrapped on 15 Nov 2026. Left for the sending day (by 23:59, 20 Nov): `git pull`,
   `.venv/bin/python tools/poster.py`, `git archive --format=zip --prefix=snubridge/ -o out/snubridge-source.zip HEAD`.
+- A Korean teacher's review (16 Nov 2026): she read the 43 About sentences and the poster built on 14 Nov. A blank
+  meant the Korean stands (9 sentences, all 17 headings, every poster line but two). Her 17 rewritten sentences and two
+  poster lines are in. Where a rewrite changed a fact, her sentence was kept and the fact put back: the ranking's
+  edition year, "first two newspapers" (three are listed), a number's label that must say what is counted, no "only"
+  beside 32 of 39, a department name not said twice, the date check as a search of the notice. By the developer's
+  word her term 검수 replaced 판독 in every line. Unread by her: those repairs, the out-of-date caution sentence and
+  the poster's "Graduation requirements by program and year of entry" line. No Korean speaker has compared the notice
+  translations with their originals.
