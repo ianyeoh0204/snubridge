@@ -755,3 +755,12 @@ separated, and a new "clean" look written by a Sonnet agent from a brief) and ch
   - New Korean, unread by the Korean teacher: the admission line, the "All" caption, the poster's sources line.
   - The overflow check is no longer in the repository's history of this machine: measure each `.panel` for children
     outside its box and each `.body` for scroll, in headless Chrome, after every poster build.
+- Poster, later on 17 Nov (the developer: no empty band in the left column; fill it by text size, not by more lines):
+  the text of "Why now" and "How it works" is 6% larger than the base sizes, and the column splits 1.94 to 1. The sizes
+  are one marked block in `POSTER_CSS` ("left-sizes"). The steps of "How it works" sit close to the line width: at 7%
+  a line wraps and the column no longer fits, so re-measure after any change there. A panel fits only when its free
+  height is at least its gaps (4 gaps of 4.5 mm in "Why now", 1 of 6 mm in "How it works"); "scroll 0" alone is not
+  enough, because a few millimetres can hide in the bottom padding.
+- The publish run of commit bea692b failed twice on 17 Nov, both inside GitHub's own deploy step: first it found no
+  uploaded site package (the upload step had passed), and on a re-run of the failed job it found two. Do not use
+  "re-run failed jobs" on this workflow: it uploads a second package. Push again or wait for the next daily run.

@@ -147,7 +147,21 @@ POSTER_CSS = """
 .bar .ko { display: inline; margin-left: 5mm; }
 
 .ko, .drow .dn small, .mock td small, .mock .kotitle { font-size: 1em !important; line-height: 1.24; }
-.col:first-child .panel:first-child { flex: 1.75 1 0; }
+/* left-sizes: the left column's two panels are set larger so that neither has an empty band (17 Nov 2026) */
+.col:first-child .panel:first-child { flex: 1.94 1 0; }
+.col:first-child .panel:first-child .lead { font-size: 17.0mm; }
+.col:first-child .panel:first-child .rule li { font-size: 13.4mm; }
+.col:first-child .panel:first-child .figs.rows .fig b { font-size: 42.4mm; }
+.col:first-child .panel:first-child .figs.rows .fig p { font-size: 11.4mm; }
+.col:first-child .panel:first-child .stand { font-size: 14.2mm; }
+.col:first-child .panel:first-child .note { font-size: 9.8mm; }
+.col:first-child .panel:last-child .steps li b { font-size: 33.9mm; }
+.col:first-child .panel:last-child .steps li { grid-template-columns: 21.2mm minmax(0, 1fr); }
+.col:first-child .panel:last-child .steps h4 { font-size: 15.9mm; }
+.col:first-child .panel:last-child .steps p { font-size: 12.1mm; }
+.col:first-child .panel:last-child .figs.two .fig b { font-size: 48.8mm; }
+.col:first-child .panel:last-child .figs.two .fig p { font-size: 11.0mm; }
+/* end left-sizes */
 .steps li { padding: 3.6mm 0; }
 .foot { grid-template-columns: 1.6fr 1.15fr auto auto; }
 
