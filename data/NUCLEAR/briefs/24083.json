@@ -1,0 +1,45 @@
+{
+ "title_en": "Recruitment of Non-Tenure-Track Faculty for Appointment on March 1, 2027",
+ "summary": "Applicants for non-tenure-track faculty positions, with appointment effective March 1, 2027, must apply through the Seoul National University faculty recruitment website (https://facultyrecruitment.snu.ac.kr). Applications are accepted from 10:00 on Tuesday, November 17, 2026 until 15:00 on Tuesday, November 24, 2026. Detailed requirements are given in the attached recruitment announcement, which was not read for this translation.",
+ "applies_to": "Anyone wishing to apply for a non-tenure-track faculty position, with appointment effective March 1, 2027. The attachment's file name indicates the positions are in the Department of Nuclear Engineering, College of Engineering, Seoul National University. Eligibility requirements are in the attached announcement, which was not read.",
+ "dates": [
+  {
+   "what": "Application period (opens)",
+   "when": "Tuesday, November 17, 2026, 10:00",
+   "original_ko": "2026. 11. 17.(화) 10시",
+   "verified": true
+  },
+  {
+   "what": "Application period (closes)",
+   "when": "Tuesday, November 24, 2026, 15:00",
+   "original_ko": "2026. 11. 24.(화) 15시",
+   "verified": true
+  },
+  {
+   "what": "Start date of the appointment",
+   "when": "March 1, 2027",
+   "original_ko": "2027. 3. 1.",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "Applications must be submitted through the Seoul National University faculty recruitment website.",
+  "Further conditions and details are stated only in the attached announcement, which was not read for this translation."
+ ],
+ "steps": [
+  "Read the attached recruitment announcement (PDF) for detailed requirements; its content was not read for this translation.",
+  "Apply on the Seoul National University faculty recruitment website (https://facultyrecruitment.snu.ac.kr) between 10:00 on November 17, 2026 and 15:00 on November 24, 2026."
+ ],
+ "translation": "Recruitment of Non-Tenure-Track Faculty for Appointment on March 1, 2027\n\nThis is the recruitment announcement for non-tenure-track faculty, with appointment effective March 1, 2027.\n\n- Application period: Tuesday, November 17, 2026, 10:00 to Tuesday, November 24, 2026, 15:00\n- How to apply: Apply through the Seoul National University recruitment website (https://facultyrecruitment.snu.ac.kr)\n- Details: Refer to the attached announcement\n\nAttachment (1 file):\nSeoul National University College of Engineering, Announcement of New Recruitment of Non-Tenure-Track Faculty for Appointment on March 1, 2027 (Department of Nuclear Engineering)_department homepage.pdf (246 KB)\n\n[Note: The content of the attached PDF was not read for this translation.]",
+ "id": 24083,
+ "text_hash": "53904b186c5e7c07",
+ "images": 0,
+ "attachments": [
+  "서울대학교 공과대학 2027. 3. 1.자 비전임교원 신규채용 공고문 (원자핵공학과)_학과 홈페이지.pdf"
+ ],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-17",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

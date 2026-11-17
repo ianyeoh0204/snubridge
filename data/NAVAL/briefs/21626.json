@@ -1,0 +1,41 @@
+{
+ "title_en": "Big Data Innovation Convergence Project Group: Resilience in the AI Era Extracurricular Program",
+ "summary": "The Seoul National University Big Data Innovation Convergence University Project Group invites students to take part in an extracurricular program on improving resilience in the AI era. Sessions take place on 26 November 2026 (19:00–21:00) and 27 November 2026 (14:00–16:00 and 17:00–19:00) at the Big Data HyFlex Learning Center, 7th floor, Angel Building, 203 Gwanak-ro. The notice does not state how to register; questions should go to the Project Group contact listed in the original notice.",
+ "applies_to": "The notice does not limit who may take part. It is a general invitation, and participation is voluntary.",
+ "dates": [
+  {
+   "what": "Session 1 of the program",
+   "when": "Thursday, 26 November 2026, 19:00–21:00",
+   "original_ko": "2026. 11. 26.(목) 19:00 ~ 21:00",
+   "verified": true
+  },
+  {
+   "what": "Session 2 of the program",
+   "when": "Friday, 27 November 2026, 14:00–16:00",
+   "original_ko": "2026. 11. 27.(금) 14:00 ~ 16:00",
+   "verified": true
+  },
+  {
+   "what": "Session 3 of the program",
+   "when": "Friday, 27 November 2026, 17:00–19:00",
+   "original_ko": "2026. 11. 27.(금) 17:00 ~ 19:00",
+   "verified": true
+  }
+ ],
+ "conditions": [],
+ "steps": [
+  "Choose the session or sessions you wish to attend. The notice does not say whether you must attend one session or all three.",
+  "For questions, including how to register, contact the Big Data Innovation Convergence University Project Group. The contact details are in the original notice.",
+  "Attend at the Seoul National University Big Data HyFlex Learning Center, 7th floor, Angel Building, 203 Gwanak-ro, at the time of your session."
+ ],
+ "translation": "[Big Data Innovation Convergence University Project Group] Promotion of the Extracurricular Program on Improving Resilience in the AI Era\n\nThe Seoul National University Big Data Innovation Convergence University Project Group is holding an extracurricular program on improving resilience in the AI era (\"AI시대 회복 탄력성 향상\"). We invite your interest and participation.\n\nA. Event title: Algorithms and Choices: Do You Like This Post?\n\nB. Purpose: Experience-based extracurricular education that helps participants reflect on their own experiences and emotions amid the changes of the AI era and develop resilience.\n\nC. Program schedule\n- Session 1: Thursday, 26 November 2026, 19:00–21:00\n- Session 2: Friday, 27 November 2026, 14:00–16:00\n- Session 3: Friday, 27 November 2026, 17:00–19:00\n\nD. Venue: Seoul National University Big Data HyFlex Learning Center (7th floor, Angel Building, 203 Gwanak-ro)\n\nE. Enquiries: the staff member in charge at the Seoul National University Big Data Innovation Convergence University Project Group. The phone number and email address are given in the original notice.",
+ "id": 21626,
+ "text_hash": "eacfc6a01f1c8fd3",
+ "images": 1,
+ "attachments": [],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-17",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

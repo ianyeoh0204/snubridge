@@ -1,0 +1,33 @@
+{
+ "title_en": "National Academy of Engineering of Korea 'Value of Engineering' Short-Form Video Contest",
+ "summary": "The National Academy of Engineering of Korea is holding a 'Value of Engineering' short-form video contest, with a closing date of Friday, 20 November. The notice gives no further text: eligibility, what to submit and how to apply are stated only in the attached announcement (PDF) and poster (image), which were not read for this translation. Interested students should open those attachments in the original notice.",
+ "applies_to": "",
+ "dates": [
+  {
+   "what": "Contest closing date (the notice does not say whether this is the submission deadline; see the attached announcement)",
+   "when": "Until Friday, 20 November (year not stated in the notice)",
+   "original_ko": "~11.20(금)",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "The notice text states no eligibility rules or conditions; any conditions are in the attachments, which were not read."
+ ],
+ "steps": [
+  "Read the attached announcement '(공고문) 공학의_가치_숏폼_콘테스트.pdf' and the poster '공학의가치_숏폼콘테스트_A3_공지용.png' in the original notice for eligibility, entry requirements and how to apply.",
+  "Enter the contest as instructed in the attachment before the closing date of Friday, 20 November."
+ ],
+ "translation": "National Academy of Engineering of Korea to Hold 'Value of Engineering Short-Form Contest' [공학의 가치 숏폼 콘테스트] (until 11.20 (Fri))\n\nAttachments (2)\n(Announcement) 공학의_가치_숏폼_콘테스트.pdf (333 KB)\n공학의가치_숏폼콘테스트_A3_공지용.png (9 MB)\n\n[Translator's note: The notice contains no body text beyond the title and the attachments. The content of the attached PDF announcement and the PNG poster was not read and is not included in this translation.]",
+ "id": 31578,
+ "text_hash": "25d4228295d4e88c",
+ "images": 1,
+ "attachments": [
+  "(공고문) 공학의_가치_숏폼_콘테스트.pdf",
+  "공학의가치_숏폼콘테스트_A3_공지용.png"
+ ],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-17",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

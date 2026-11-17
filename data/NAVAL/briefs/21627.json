@@ -1,0 +1,28 @@
+{
+ "title_en": "National Academy of Engineering of Korea 'Value of Engineering' Short-Form Video Contest",
+ "summary": "The National Academy of Engineering of Korea is holding a 'Value of Engineering' Short-Form Contest, which runs until Friday, 20 November. Only the title of this notice was provided; it does not state who may enter, how to enter or where to submit. Interested students should consult the original notice or the department office for full details.",
+ "applies_to": "",
+ "dates": [
+  {
+   "what": "End of the contest (the title says the contest runs until this date; it does not state whether this is the submission deadline). The year is not stated; the notice was posted in November 2026.",
+   "when": "Until Friday, 20 November",
+   "original_ko": "~11.20(금)까지",
+   "verified": true
+  }
+ ],
+ "conditions": [],
+ "steps": [
+  "Read the full original notice and any attachments for eligibility, entry requirements and the submission method, because only the title was provided and no further content was read.",
+  "Contact the department office if you have questions; the contact details are in the original notice."
+ ],
+ "translation": "[National Academy of Engineering of Korea] 'Value of Engineering Short-Form Contest' (공학의 가치 숏폼 콘테스트) Being Held (until Friday, 11.20)\n\nNote: Only the title of this notice was provided. The body text and any attachments or images were not available and were not read.",
+ "id": 21627,
+ "text_hash": "e3b0c44298fc1c14",
+ "images": 1,
+ "attachments": [],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-17",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

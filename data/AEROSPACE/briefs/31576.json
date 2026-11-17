@@ -1,0 +1,39 @@
+{
+ "title_en": "2026 SNU Grand Quest Challenge Colloquium",
+ "summary": "All members of Seoul National University, including students and postdoctoral researchers, as well as external researchers and industry and institution personnel, are invited to the 2026 SNU Grand Quest Challenge Colloquium on Thursday, 26 November 2026, 09:30–17:30, on the 1st floor of the Central Library main building, SNU Commons. Pre-registration and full event details are available on the SNU Grand Quest website. Places in the post-event interdisciplinary exchange for early-career researchers are limited to those who pre-register, on a first-come, first-served basis.",
+ "applies_to": "All members of Seoul National University, including early-career researchers such as students and postdoctoral researchers, as well as external researchers and personnel from companies and institutions. The notice does not state that attendance is mandatory. The post-event interdisciplinary exchange is only for students, postdoctoral researchers and other early-career researchers who pre-register, on a first-come, first-served basis.",
+ "dates": [
+  {
+   "what": "Colloquium (keynote lecture, presentations and discussions) at the Central Library main building, 1st floor, SNU Commons",
+   "when": "Thursday, 26 November 2026, 09:30–17:30",
+   "original_ko": "2026. 11. 26.(목) 09:30~17:30",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "The post-event interdisciplinary exchange is only for students, postdoctoral researchers and other early-career researchers who pre-register.",
+  "Places in the post-event exchange are filled on a first-come, first-served basis and close when full.",
+  "Participants selected for the post-event exchange will be notified separately.",
+  "The notice does not state a pre-registration deadline; check the SNU Grand Quest website.",
+  "Two image attachments (a poster and a detailed programme) were not read; their content is not included here."
+ ],
+ "steps": [
+  "Read the attached poster and detailed programme (image files, not read in this translation), and check the SNU Grand Quest website for full event details.",
+  "Pre-register on the SNU Grand Quest website. Students and postdoctoral researchers who wish to join the post-event interdisciplinary exchange must pre-register; places are first-come, first-served.",
+  "If you applied for the post-event exchange, wait for a separate notification confirming whether you are a participant.",
+  "Attend the colloquium on Thursday, 26 November 2026, 09:30–17:30, on the 1st floor of the Central Library main building, SNU Commons."
+ ],
+ "translation": "Notice: 2026 SNU Grand Quest Challenge Colloquium\n\nA. Event: 2026 SNU Grand Quest Challenge Colloquium\n\nB. Date, time and venue: Thursday, 26 November 2026, 09:30–17:30, Seoul National University Commons, Central Library main building, 1st floor\n\nC. Who may participate: All members of Seoul National University, including early-career researchers such as students and postdoctoral researchers; external researchers; and personnel from companies and institutions, among others\n\nD. Main programme\n1) Keynote lecture: a Distinguished Chair Professor (tenured) of Sungkyunkwan University (name given in the original notice)\n2) Presentations and discussion of the exploratory questions and research directions of the 29 projects selected for exploratory research\n- 3 sessions, each with 3 parallel sub-sessions\n3) After the official event ends, an opportunity for interdisciplinary academic exchange among early-career researchers such as students and postdoctoral researchers\n(For those who pre-register; closes on a first-come, first-served basis*) *Participants will be notified separately.\n\nE. Pre-registration and detailed event information: see the SNU Grand Quest website.\n\nAttachments (2):\n- 2026 SNU 그랜드퀘스트 챌린지 콜로퀴엄 포스터.png (poster, 271 KB)\n- 콜로퀴엄_세부프로그램_eDM.png (detailed programme, 1 MB)\n[These attachments are images; their content was not read and is not included in this translation.]",
+ "id": 31576,
+ "text_hash": "5ed4e97a3dcd7412",
+ "images": 2,
+ "attachments": [
+  "2026 SNU 그랜드퀘스트 챌린지 콜로퀴엄 포스터.png",
+  "콜로퀴엄_세부프로그램_eDM.png"
+ ],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-17",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

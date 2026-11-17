@@ -1,0 +1,42 @@
+{
+ "title_en": "AI-Era Resilience Extracurricular Program (Big Data Innovation Convergence University Project)",
+ "summary": "The Big Data Innovation Convergence University Project Group announces a non-credit extracurricular program, \"Algorithms and Choices: Do You Like This Post?\", on building resilience in the AI era. Sessions are held on 26 November 2026 (19:00–21:00) and 27 November 2026 (14:00–16:00 and 17:00–19:00) at the Seoul National University Big Data HyFlex Learning Center, 7th floor, Angel Building, 203 Gwanak-ro. The notice does not state who may take part, whether participation is required, or how to register; these details may be in the attached poster, which was not read.",
+ "applies_to": "",
+ "dates": [
+  {
+   "what": "Program Session 1",
+   "when": "Thursday 26 November 2026, 19:00–21:00",
+   "original_ko": "2026. 11. 26.(목) 19:00 ~ 21:00",
+   "verified": true
+  },
+  {
+   "what": "Program Session 2",
+   "when": "Friday 27 November 2026, 14:00–16:00",
+   "original_ko": "2026. 11. 27.(금) 14:00 ~ 16:00",
+   "verified": true
+  },
+  {
+   "what": "Program Session 3",
+   "when": "Friday 27 November 2026, 17:00–19:00",
+   "original_ko": "2026. 11. 27.(금) 17:00 ~ 19:00",
+   "verified": true
+  }
+ ],
+ "conditions": [],
+ "steps": [
+  "Read the attached web poster (웹포스터_장소 수정본 (1).png). Its content was not read for this translation; it may contain eligibility and registration details that the notice text does not give.",
+  "Attend the session(s) at the Seoul National University Big Data HyFlex Learning Center, 7th floor, Angel Building, 203 Gwanak-ro (관악로 203 엔젤빌딩 7층), at the scheduled time."
+ ],
+ "translation": "[Big Data Innovation Convergence University Project Group] Notice of Extracurricular Program on Improving Resilience in the AI Era\n\nA. Event title: Algorithms and Choices: Do You Like This Post?\n\nB. Purpose: Experience-based extracurricular education that helps participants reflect on their own experiences and emotions amid the changes of the AI era and develop resilience.\n\nC. Program schedule\n- Session 1: Thursday 26 November 2026, 19:00–21:00\n- Session 2: Friday 27 November 2026, 14:00–16:00\n- Session 3: Friday 27 November 2026, 17:00–19:00\n\nD. Venue: Seoul National University Big Data HyFlex Learning Center (7th floor, Angel Building, 203 Gwanak-ro)\n\nAttachment (1 file): 웹포스터_장소 수정본 (1).png (web poster, revised venue; 253 KB). The content of this image was not read for this translation.",
+ "id": 31577,
+ "text_hash": "9c3e8a1f282b138f",
+ "images": 1,
+ "attachments": [
+  "웹포스터_장소 수정본 (1).png"
+ ],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-17",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}
