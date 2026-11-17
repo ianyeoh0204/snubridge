@@ -66,7 +66,7 @@ Each of the last three also loads that department's undergraduate cards from `to
 .venv/bin/python tools/survey.py aggregate # write the totals to data/survey.json (the commands `check` and `sample` verify the count)
 .venv/bin/python tools/korean_review.py    # every English and Korean sentence pair, as a sheet for a Korean reader
 .venv/bin/python tools/reader_sheet.py     # ten notices beside their Korean originals, as a sheet for a Korean-speaking reader
-.venv/bin/python tools/poster.py           # the competition poster as a PDF in out/poster/, drawn from the same data as the site
+.venv/bin/python tools/poster.py           # the competition poster as a PDF in out/poster/, drawn from the same data as the site (first: .venv/bin/pip install segno)
 ```
 `sources/context.json` holds the facts and links for the first step of the Background page, which covers what the
 university has said and done this year. Re-read each cited page before changing a line there.
@@ -118,3 +118,5 @@ git pull
 git archive --format=zip --prefix=snubridge/ -o out/snubridge-source.zip HEAD
 ```
 Look at `out/poster/poster.png` before sending. The last command packs exactly what is in the repository. It contains no key, no downloaded department documents and nothing from `out/`.
+
+The archive sent for the competition also carries `site/` (the built page, its data and the calendar file), added after `python -m bridge site`, so that the site can be opened without building: open `site/index.html`.
