@@ -75,8 +75,8 @@ POSTER_KO.update({
         "AI 모델이 공식 문서를 바탕으로 한 번 작성했고, 다른 개발사에서 만든 두 번째 AI 모델로 다시 검수했습니다.",
     "scheduled check for new notices": "매일 예약된 새 공지 확인",
     "departments read by one automatic job": "하나의 자동 작업이 읽는 학과 수",
-    "Claude writes the English. An OpenAI model, from a different maker, re-read every requirement card against the Korean.":
-        "영어는 Claude가 작성합니다. 개발사가 다른 OpenAI 모델이 모든 요건 카드를 한국어 원문과 대조해 다시 읽었습니다.",
+    "The AI model is called from one file, so it can be replaced by another model.":
+        "AI 모델은 한 파일에서만 호출하므로 다른 모델로 바꿀 수 있습니다.",
     "Checks performed": "수행한 검증",
     "Choose your program and year of entry. See the requirements, and the page each comes from.":
         "과정과 입학 연도를 고르면 요건과 각 요건의 출처 쪽을 볼 수 있습니다.",
@@ -249,7 +249,7 @@ def build():
              + step("+", "Requirements, separately", bi("An AI model wrote them once from the official documents, and a second AI model from another maker re-read them.")) + "</ol>")
     # the point of this panel is that the flow runs by itself, so the second figure is how much it covers, not what it costs
     daily, cost = fig(html.escape("Daily"), bi("scheduled check for new notices")), fig(len(others) + 1, bi("departments read by one automatic job"))
-    who = f'<p class="stand">{bi("Claude writes the English. An OpenAI model, from a different maker, re-read every requirement card against the Korean.")}</p>'
+    who = f'<p class="note">{bi("The AI model is called from one file, so it can be replaced by another model.")}</p>'
     how = f'<div class="body">{steps}<div class="figs two">{daily}{cost}</div>{who}</div>'
 
     # every department's cards and its second reading (data/<DEPARTMENT>/audit.json)

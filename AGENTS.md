@@ -723,3 +723,9 @@ separated, and a new "clean" look written by a Sonnet agent from a brief) and ch
   word her term 검수 replaced 판독 in every line. Unread by her: those repairs, the out-of-date caution sentence and
   the poster's "Graduation requirements by program and year of entry" line. No Korean speaker has compared the notice
   translations with their originals.
+- Model names are off the poster and the site (17 Nov 2026, the developer: whoever continues may translate with another
+  model). This replaces the 12 Nov rule to "say which AI does what". About, Why now: "An AI model makes the translations
+  through an API. A model from a different maker was the second reader." Poster, How it works: the blue box is now one
+  small line, "The AI model is called from one file, so it can be replaced by another model." (only `bridge/llm.py`
+  imports the provider's library). At the booth, when asked which models: Claude translates, an OpenAI model re-read.
+  The README and the code still name the model. Both new Korean lines are unread by the Korean teacher.

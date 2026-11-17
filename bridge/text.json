@@ -162,7 +162,7 @@
   "Where this project stands": "이 프로젝트의 위치",
   "This is our reading. The notices these students must follow are posted in Korean, and AI in administration, an aim of the AI Native Campus, can put them into English.": "저희의 해석입니다. 이 학생들이 따라야 할 공지는 한국어로 게시되며, AI Native Campus가 지향하는 행정 분야의 AI 활용으로 이를 영어로 옮길 수 있습니다.",
   "SNU Bridge puts {n} departments' notices and requirements into English with generative AI. It updates the notices daily without the developer's laptop.": "SNU Bridge는 생성형 AI로 {n}개 학과의 공지와 요건을 영어로 제공합니다. 개발자가 직접 관리하지 않아도 매일 공지사항을 자동으로 업데이트합니다.",
-  "Claude makes the translations through its API. An OpenAI model was the second reader. The site sends students to ChatGPT Edu to read attachments.": "번역은 Claude가 API를 통해 수행합니다. 2차 검수는 OpenAI 모델이 맡았습니다. 이 사이트는 학생들이 첨부파일을 읽을 수 있도록 ChatGPT Edu로 연결시켜 줍니다.",
+  "An AI model makes the translations through an API. A model from a different maker was the second reader. The site sends students to ChatGPT Edu to read attachments.": "번역은 AI 모델이 API를 통해 수행합니다. 2차 검수는 다른 개발사의 모델이 맡았습니다. 이 사이트는 학생들이 첨부파일을 읽을 수 있도록 ChatGPT Edu로 연결시켜 줍니다.",
   "Pilot: {name} notices in English, {n} since {date}": "시범: {name} 공지 영어 제공, {date} 이후 {n}건",
   "Deadlines as a calendar: {n} dated events from this department's notices. Subscribe once and it follows the notices.": "캘린더로 보는 마감일: 본 학과 공지에서 가져온 날짜 {n}건입니다. 한 번 구독하면 공지에 맞춰 갱신됩니다.",
   "Apple Calendar or Outlook": "Apple 캘린더 또는 Outlook",
