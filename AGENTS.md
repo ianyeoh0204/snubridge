@@ -764,3 +764,8 @@ separated, and a new "clean" look written by a Sonnet agent from a brief) and ch
 - The publish run of commit bea692b failed twice on 17 Nov, both inside GitHub's own deploy step: first it found no
   uploaded site package (the upload step had passed), and on a re-run of the failed job it found two. Do not use
   "re-run failed jobs" on this workflow: it uploads a second package. Push again or wait for the next daily run.
+- The README is in two languages (18 Nov 2026, the developer's request): the English as it was, then the whole text in
+  Korean under `<a id="korean">`, with one link line under the title. A Sonnet agent wrote the Korean from the site's
+  own terms in `bridge/text.json` (검수, 영문 게시판, 게시물, 건) and it was checked by script against the English: the
+  same commands, backticked names, numbers and sentence count per section. No Korean speaker has read it. A change to
+  one half must be made in the other.
