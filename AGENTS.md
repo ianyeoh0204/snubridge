@@ -734,9 +734,12 @@ separated, and a new "clean" look written by a Sonnet agent from a brief) and ch
     ("Requirements, separately") is off the poster: it happened once, not daily, and the developer could not follow it.
     The requirements' second reading is still said in "Checks performed". "All" replaced "4": one job reads every
     department, however many there are. The one-file line of the same morning is gone too (also not understood).
-  - "Why now" took the room (left column flex 2.2 to 1): the overall QS place (38, was 31) stands above 622 with the
-    site's own two captions, so 622 is not read as the university's rank, and one new line says a student can enter
-    without a Korean certificate. That line is also on About, Why now, with both admission guides as its sources.
+  - "Why now" took the room (left column flex 1.75 to 1) and gained one line: a student can enter without a Korean
+    certificate. That line is also on About, Why now, with both admission guides as its sources. For a few hours the
+    overall QS place (38, was 31) stood above 622; the developer had it removed the same evening: SNU's fall in rank is
+    not only about international students, and the poster must not suggest it is. The poster shows 622 alone with its
+    earlier caption. Do not put the overall rank or "the main cause of its fall" on the poster. (About still shows 38
+    among "The figures behind it", as it has since 12 Nov.)
   - The admission line rests on the 2027 Spring guides for international applicants (undergraduate and graduate), read
     17 Nov: both ask for proof of Korean or English (TOPIK 3, or TOEFL iBT 80, IELTS 6.0, TEPS 269). Five graduate
     programs must submit TOPIK (Business Administration and Art Management level 6, three Design majors level 5); no
@@ -747,8 +750,8 @@ separated, and a new "clean" look written by a Sonnet agent from a brief) and ch
     The new division is 글로벌인재학부 in 학부대학, with no major of its own; a November report gives about 30 students
     where April's gave about 36. The poster keeps News1's "about 36".
   - An OpenAI model (GPT-5.6 Terra through Kiro, read-only, given text only) was asked what to add, at the developer's
-    suggestion. Taken: the admission line, the stated cause of the fall, and its warning that 622 could be read as the
-    overall rank. Not taken: "Every English notice links to its Korean original" (the footer says it).
+    suggestion. Taken: the admission line. Taken and then removed by the developer: the overall rank beside 622 and the
+    stated cause of the fall. Not taken: "Every English notice links to its Korean original" (the footer says it).
   - New Korean, unread by the Korean teacher: the admission line, the "All" caption, the poster's sources line.
   - The overflow check is no longer in the repository's history of this machine: measure each `.panel` for children
     outside its box and each `.body` for scroll, in headless Chrome, after every poster build.

@@ -39,8 +39,8 @@ SEOUL = datetime.timezone(datetime.timedelta(hours=9))
 POSTER_KO = {
     "The 2nd SNU Generative AI Competition": "제2회 서울대학교 생성형 AI 경진대회",
     "Scan to open the site": "QR 코드로 사이트 열기",
-    "Sources: News1, 27 April 2026; President's New Year address; SNU admission guides; SNU Alumni Association newspaper and Korea University News for the rankings. Links on the site.":
-        "출처: 뉴스1(2026년 4월 27일), 총장 신년사, 서울대학교 모집안내, 순위는 서울대학교총동창신문과 한국대학신문. 링크는 사이트에 있습니다.",
+    "Sources: News1, 27 April 2026; President's New Year address; SNU admission guides; SNU Alumni Association newspaper. Links on the site.":
+        "출처: 뉴스1(2026년 4월 27일), 총장 신년사, 서울대학교 모집안내, 서울대학교총동창신문. 링크는 사이트에 있습니다.",
     "Board counts: {from} to {to}. Site figures as of {date}.": "게시판 집계 기간: {from} ~ {to}. 사이트 수치 기준일: {date}.",
     "Korean board": "한국어 게시판",
     "What it does": "하는 일",
@@ -68,6 +68,8 @@ POSTER_KO.update({
     "Master's program": "석사과정",
     "A title counts as English when it has no Korean in it. All {n} are listed on the site, each with its link.":
         "제목에 한글이 없으면 영어 제목으로 셌습니다. {n}건 전체를 링크와 함께 사이트에 실었습니다.",
+    "QS 2026 rank for share of international students, as reported by the SNU Alumni Association newspaper":
+        "QS 2026년판 외국인 학생 비율 지표 순위 (서울대학교총동창신문 보도)",
     "scheduled check for new notices": "매일 예약된 새 공지 확인",
     "departments read by one automatic job": "하나의 자동 작업이 모든 학과를 읽습니다",
     "Checks performed": "수행한 검증",
@@ -145,10 +147,8 @@ POSTER_CSS = """
 .bar .ko { display: inline; margin-left: 5mm; }
 
 .ko, .drow .dn small, .mock td small, .mock .kotitle { font-size: 1em !important; line-height: 1.24; }
-.col:first-child .panel:first-child { flex: 2.2 1 0; }
-.steps li { padding: 3mm 0; }
-.col:first-child .panel:last-child .figs.two .fig b { font-size: 40mm; }
-.col:first-child .panel:first-child .figs.rows .fig { padding: 2.4mm 6mm; }
+.col:first-child .panel:first-child { flex: 1.75 1 0; }
+.steps li { padding: 3.6mm 0; }
 .foot { grid-template-columns: 1.6fr 1.15fr auto auto; }
 
 .col.mid .panel:first-child { flex: 1.62 1 0; }
@@ -231,14 +231,12 @@ def build():
     division = bi("A new undergraduate division for international students is planned for September {year}, with about {n} entrants expected.",
                   {"year": f["new_division_year"], "n": f["new_division_students"]})
     reading = bi("This is our reading. The notices these students must follow are posted in Korean, and AI in administration, an aim of the AI Native Campus, can put them into English.")
-    # the overall place beside the indicator, so that 622 is not read as the university's rank; both captions are the site's
-    why_figs = ('<div class="figs rows">' + fig(num(f["qs_rank"]), bi("SNU's place in the 2026 and 2027 QS World University Rankings. It was {n} in the 2025 edition.", {"n": f["qs_rank_before"]}))
-                + fig(num(f["qs_student_ratio_rank"]), bi("SNU's place for share of international students in the 2026 edition. The university named the international indicators as the main cause of its fall in rank.")) + "</div>")
+    why_figs = '<div class="figs rows">' + fig(num(f["qs_student_ratio_rank"]), bi("QS 2026 rank for share of international students, as reported by the SNU Alumni Association newspaper")) + "</div>"
     admission = bi("SNU\'s 2027 admission guides ask international applicants for proof of Korean or English, so a student can enter without a Korean certificate.")
     why = ('<div class="body">' + f'<p class="lead">{bi("SNU is working to bring in more international students.")}</p>'
            + f'<ul class="rule"><li>{funded}</li><li>{division}</li><li>' + bi("In his 2026 address the President said internationalisation must be the base of all the university's work.") + f"</li><li>{admission}</li></ul>"
            + why_figs + f'<p class="stand">{reading}</p>'
-           + '<p class="note">' + bi("Sources: News1, 27 April 2026; President's New Year address; SNU admission guides; SNU Alumni Association newspaper and Korea University News for the rankings. Links on the site.") + "</p></div>")
+           + '<p class="note">' + bi("Sources: News1, 27 April 2026; President's New Year address; SNU admission guides; SNU Alumni Association newspaper. Links on the site.") + "</p></div>")
 
     step = lambda n, title, text: f'<li><b>{n}</b><h4>{bi(title)}</h4><p>{text}</p></li>'
     steps = ('<ol class="steps">' + step(1, "Collect", bi("Once a day a scheduled job reads the department's Korean board."))
@@ -415,8 +413,8 @@ h5 .ko {{ display: inline; margin-left: 3mm; }}
 .figs.rows .fig + .fig {{ border-top: 0; }}
 .figs.rows .fig b {{ font-size: 40mm; }}
 .figs.rows .fig p {{ margin-top: 0; font-size: 10.8mm; }}
-.col:first-child .panel:first-child .rule li {{ padding: 2.6mm 0; }}
-.col:first-child .panel:first-child .body {{ gap: 3.8mm; }}
+.col:first-child .panel:first-child .rule li {{ padding: 3.2mm 0; }}
+.col:first-child .panel:first-child .body {{ gap: 4.5mm; }}
 .figs.three.even {{ grid-template-columns: repeat(3, minmax(0, 1fr)); }}
 .figs.three.even .fig b {{ font-size: 36mm; }}
 .figs.three.even .fig {{ padding: 3mm 5mm 4mm; }}
