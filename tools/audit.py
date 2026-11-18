@@ -2,7 +2,7 @@
 """Audit of requirement cards by a second reader that did not write them.
 
     .venv/bin/python tools/audit.py prepare     # writes out/audit/: one image and one question file per page
-    (a different AI model reads each page and answers; the command is in the repository's AGENTS.md under Audit)
+    (a different AI model reads each page image with its question file and writes its answer beside them)
     .venv/bin/python tools/audit.py collect     # reads the answers into data/ECE/audit.json
 
 Selection rule for the first round, fixed before any result was seen: every card whose source is one of PAGES of the

@@ -3,8 +3,7 @@
 English first. [한국어는 아래에 있습니다.](#korean)
 
 Graduation requirements and department notices in English, for international students. The code builds a static website
-from each department's official rule documents and its notice board. `AGENTS.md`, in the repository only, holds the working
-notes: the design, the rules and the history of decisions.
+from each department's official rule documents and its notice board.
 
 Four departments are on the site: Electrical and Computer Engineering (ECE), Aerospace, Naval Architecture and Ocean
 Engineering, and Nuclear Engineering.
@@ -119,7 +118,7 @@ git pull
 .venv/bin/python tools/poster.py
 git archive --format=zip --prefix=snubridge/ -o out/snubridge-source.zip HEAD
 ```
-Look at `out/poster/poster.png` before sending. The last command packs exactly what is in the repository. It contains no key, no downloaded department documents and nothing from `out/`. `.gitattributes` keeps `AGENTS.md` out of it.
+Look at `out/poster/poster.png` before sending. The last command packs exactly what is in the repository. It contains no key, no downloaded department documents and nothing from `out/`.
 
 The archive sent for the competition also carries `site/` (the built page, its data and the calendar file), added after `python -m bridge site`, so that the site can be opened without building: open `site/index.html`.
 
@@ -129,7 +128,7 @@ The archive sent for the competition also carries `site/` (the built page, its d
 
 # SNU Bridge (한국어)
 
-외국인 학생을 위한 영문 졸업 요건과 학과 공지입니다. 이 코드는 각 학과의 공식 규정 문서와 공지 게시판으로 정적 웹사이트를 만듭니다. 저장소에만 있는 `AGENTS.md`에는 설계, 규칙, 결정의 이력을 적은 작업 노트가 담겨 있습니다.
+외국인 학생을 위한 영문 졸업 요건과 학과 공지입니다. 이 코드는 각 학과의 공식 규정 문서와 공지 게시판으로 정적 웹사이트를 만듭니다.
 
 사이트에는 전기·정보공학부(ECE), 항공우주공학과, 조선해양공학과, 원자핵공학과의 네 개 학과가 올라와 있습니다.
 
@@ -212,6 +211,6 @@ git pull
 .venv/bin/python tools/poster.py
 git archive --format=zip --prefix=snubridge/ -o out/snubridge-source.zip HEAD
 ```
-보내기 전에 `out/poster/poster.png`를 확인합니다. 마지막 명령은 저장소에 있는 내용만을 정확히 압축 파일로 묶습니다. 여기에는 키도, 내려받은 학과 문서도, `out/`의 어떤 파일도 들어 있지 않습니다. `.gitattributes`가 `AGENTS.md`를 압축 파일에서 제외합니다.
+보내기 전에 `out/poster/poster.png`를 확인합니다. 마지막 명령은 저장소에 있는 내용만을 정확히 압축 파일로 묶습니다. 여기에는 키도, 내려받은 학과 문서도, `out/`의 어떤 파일도 들어 있지 않습니다.
 
 경진대회에 제출하는 압축 파일에는 `python -m bridge site` 실행 후 추가한 `site/`(빌드된 페이지, 그 데이터, 캘린더 파일)도 들어 있어 빌드 없이도 사이트를 열 수 있으며, `site/index.html`을 열면 됩니다.

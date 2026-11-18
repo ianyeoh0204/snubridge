@@ -15,3 +15,5 @@ sources/**/*.hwp
 sources/**/*.hwpx
 # text of a department document pasted by the developer in place of the file
 sources/**/*.txt
+# the developer's working notes: kept on the developer's machine, not published
+AGENTS.md
