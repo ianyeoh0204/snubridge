@@ -102,7 +102,6 @@
   "Original notice": "원문 공지",
   "Related requirement": "관련 요건",
   "Revised": "수정됨",
-  "Dates: {n}": "날짜 {n}개",
   "Translation pending": "번역 대기",
   "not found in the notice text": "공지 본문에서 찾지 못함",
   "Images in this notice that could not be read: {n}. For English, paste a screenshot into {assistant}.": "이 공지에서 읽지 못한 이미지: {n}개. 영어로 보려면 화면을 캡처하여 {assistant}에 붙여 넣으시기 바랍니다.",

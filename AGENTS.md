@@ -773,3 +773,7 @@ separated, and a new "clean" look written by a Sonnet agent from a brief) and ch
   the cause: `deploy-pages` asked GitHub for the uploaded site 0.3 seconds after the upload was finalized and was told
   "Found 0 artifact(s)". The workflow now waits 30 seconds between the upload and the publish step. If it fails again
   with the same message, the wait is not the cure: split the publish step into its own job.
+- Notices list (18 Nov 2026, the developer's requests): the "Dates: n" tag beside each notice is gone (the developer
+  did not know what it meant; the dates are in the notice itself). "Revised" stays. The full English translation is
+  closed on every notice and opens on a tap; this replaces the rule of 12 Nov that showed it open. The checklist is
+  still open only where the short parts are shorter than the translation.

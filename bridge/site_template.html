@@ -543,16 +543,16 @@ function renderNotices() {
           el("summary", null, el("div", { class: "head" },
             el("div", { class: "meta" }, n.date,
               n.category ? el("span", { class: "tag" }, two(n.category.en, n.category.ko)) : null,
-              n.edited || (b && (b.revised || b.stale)) ? el("span", { class: "tag trap" }, L("Revised")) : null,
-              b && b.dates.length ? el("span", { class: "tag" }, L("Dates: {n}", { n: b.dates.length })) : null),
+              n.edited || (b && (b.revised || b.stale)) ? el("span", { class: "tag trap" }, L("Revised")) : null),
             el("div", { class: "en" }, n.title_en || L("Translation pending")))),
           el("div", { class: "body" },
             el("p", { class: "ko", lang: "ko" }, n.title_ko),
             ...(b ? (() => {
               // The short parts (summary, dates, who must act, conditions, steps) were written to leave nothing out, and
               // for most notices they add up to more words than the notice itself. A summary longer than its original
-              // is not a summary: then the full translation is shown open and the checklist is one tap away. Only when
-              // the short parts really are shorter is the checklist shown open instead.
+              // is not a summary: then the checklist is closed, one tap away. Only when the short parts really are
+              // shorter is the checklist shown open. The full translation is always closed: the summary and the dates
+              // are what a student sees first, and one tap opens the rest (the developer, 18 Nov 2026).
               const words = (s) => s.split(/\s+/).filter(Boolean).length;
               const listed = [b.applies_to, ...(b.conditions || []), ...b.steps].filter(Boolean);
               const short = [b.summary, ...listed, ...b.dates.flatMap((d) => [d.what, d.when])].reduce((a, s) => a + words(s), 0);
@@ -561,7 +561,7 @@ function renderNotices() {
                 b.applies_to ? el("p", null, el("b", null, L("Who must act") + ". "), b.applies_to) : null,
                 (b.conditions || []).length ? el("div", { class: "conds" }, el("b", null, B("Conditions and exceptions")), el("ul", null, ...b.conditions.map((x) => el("li", null, x)))) : null,
                 ...stepBlocks(b.steps)) : null;
-              const full = el("details", Object.assign({ class: "full" }, listFirst ? {} : { open: "" }), el("summary", null, L("Full English translation")),
+              const full = el("details", { class: "full" }, el("summary", null, L("Full English translation")),
                 ...b.translation.split(/\n\s*\n/).map((t) => el("p", null, t)));
               return [
               b.stale ? el("p", { class: "trapline" }, el("b", null, L("Caution") + ". "),
