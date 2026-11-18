@@ -474,11 +474,8 @@ function stepBlocks(steps) {
 
 // A question for the assistant, ready to paste. It carries the ORIGINAL notice's address, not this site's translation,
 // so the assistant reads the department's own page, images and files, and nothing passes through this site on the way.
-const QUESTION = (url) => "Explain this Seoul National University notice for an international student, in English. " +
-  "Open the original page and read it, including images and attached files:\n" + url + "\n" +
-  "Keep the answer to about one screen. Tell me: who must act, the dates I must act on or attend (each with its Korean text), and the steps. " +
-  "Leave out dates that are only background, such as posting dates, past years and examples inside attachments. " +
-  "End with one line on anything you could not open. If it depends on my program or year of entry, ask me.";
+const QUESTION = (url) => "Please read this Seoul National University notice, including its images and attached files, " +
+  "and explain in English what I need to do:\n" + url;
 const askButton = (n) => { const done = el("span", { class: "asked", hidden: "" }, ...B("Copied. Paste it into {assistant}.", { assistant: assistantLink() }, { assistant: dept.assistant.name }));
   const button = el("button", { type: "button", class: "ask", onclick: async () => {
     try { await navigator.clipboard.writeText(QUESTION(n.url)); done.hidden = false; } catch (e) { window.prompt(L("Copy this question"), QUESTION(n.url)); } } }, ...B("Ask in {assistant}", { assistant: dept.assistant.name }));
