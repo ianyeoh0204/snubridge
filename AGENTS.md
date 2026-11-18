@@ -777,3 +777,5 @@ separated, and a new "clean" look written by a Sonnet agent from a brief) and ch
   did not know what it meant; the dates are in the notice itself). "Revised" stays. The full English translation is
   closed on every notice and opens on a tap; this replaces the rule of 12 Nov that showed it open. The checklist is
   still open only where the short parts are shorter than the translation.
+- This file is not sent (18 Nov 2026, the developer: it is a log of the work, not the work). `.gitattributes` marks it
+  `export-ignore`, so `git archive` leaves it out of the source zip. It stays in the repository for whoever continues.

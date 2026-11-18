@@ -1,0 +1,2 @@
+# The working notes stay in the repository and are left out of `git archive` (the source sent for the competition).
+AGENTS.md export-ignore
