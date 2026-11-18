@@ -769,3 +769,7 @@ separated, and a new "clean" look written by a Sonnet agent from a brief) and ch
   own terms in `bridge/text.json` (검수, 영문 게시판, 게시물, 건) and it was checked by script against the English: the
   same commands, backticked names, numbers and sentence count per section. No Korean speaker has read it. A change to
   one half must be made in the other.
+- The daily run of 18 Nov failed at the same publish step, the third time in four days (15, 17, 18 Nov). The log shows
+  the cause: `deploy-pages` asked GitHub for the uploaded site 0.3 seconds after the upload was finalized and was told
+  "Found 0 artifact(s)". The workflow now waits 30 seconds between the upload and the publish step. If it fails again
+  with the same message, the wait is not the cure: split the publish step into its own job.

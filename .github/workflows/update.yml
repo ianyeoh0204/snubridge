@@ -68,6 +68,9 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
+      # The publish step asked GitHub for the uploaded site within half a second and was told there was none
+      # (15, 17 and 18 Nov 2026). The upload had passed each time. Give GitHub's list of uploads time to catch up.
+      - run: sleep 30
       - id: deploy
         uses: actions/deploy-pages@v4
 
