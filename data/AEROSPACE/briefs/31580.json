@@ -1,0 +1,41 @@
+{
+ "title_en": "Call for Applications: 2027 Entrepreneurial Engineering Technology Innovation Talent Program",
+ "summary": "Undergraduate students of the College of Engineering who will have at least five registered semesters as of Spring 2027 (third year and above) may apply for the 2027 Entrepreneurial Engineering Technology Innovation Talent selection. Applicants must submit an application form and a start-up idea proposal through the Google Form linked in the notice. The deadline is 23:59 on Monday, 30 November 2026.",
+ "applies_to": "Undergraduate students currently enrolled in the College of Engineering who will have five or more registered semesters as of Spring 2027 (third year and above). Application is voluntary.",
+ "dates": [
+  {
+   "what": "Application period (online submission via Google Form); only submissions received by the closing time are accepted",
+   "when": "From the date of the notice until 23:59 on Monday, 30 November 2026",
+   "original_ko": "공고일 ~ 2026. 11. 30.(월) 23:59분 제출분까지",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "Only undergraduate students enrolled in the College of Engineering are eligible.",
+  "Applicants must have five or more registered semesters as of Spring 2027 (third year and above).",
+  "Only submissions made by 23:59 on 30 November 2026 are accepted.",
+  "Both an application form and a start-up idea proposal must be submitted.",
+  "The start-up idea proposal must include your name when submitted, as stated in the template file name.",
+  "The full call for applications is in an attached PDF that was not read; it may contain further conditions."
+ ],
+ "steps": [
+  "Read the attached call for applications (2027년도 창업가형 공학기술 혁신인재 선발 공고문.pdf) and poster on the original notice page; their contents were not read for this translation.",
+  "Download the attached start-up idea proposal template (창업 아이디어 제안서 제출양식(제출시 성명기재).pptx) and complete it, writing your name on it.",
+  "Submit the application form and the completed start-up idea proposal through the Google Form at https://forms.gle/AxXTppvhsYXHnHwK7 by 23:59 on 30 November 2026.",
+  "For questions, contact the SNU College of Engineering Innovation and Entrepreneurship Center (서울공대혁신창업센터); contact details are in the original notice."
+ ],
+ "translation": "2027 Entrepreneurial Engineering Technology Innovation Talent Selection – Call for Applications\n\nA. Announcement: Call for applications for the 2027 Entrepreneurial Engineering Technology Innovation Talent selection.\n\nB. Eligibility: Undergraduate students enrolled in the College of Engineering with five or more registered semesters as of Spring 2027 (third year and above).\n\nC. How to apply: Submit the application form and a start-up idea proposal via Google Form.\n- Link: https://forms.gle/AxXTppvhsYXHnHwK7\n\nD. Application period: From the date of this notice until submissions made by 23:59 on Monday, 30 November 2026.\n\nE. Support provided: Living scholarship and start-up activity funding, dedicated space for start-up teams, opportunities to take part in summer/winter training programs, mentoring from a mentor group of alumni entrepreneurs, the possibility of earning a curricular certification, and more.\n\nF. Enquiries: SNU College of Engineering Innovation and Entrepreneurship Center (서울공대혁신창업센터). Contact details are given in the original notice.\n\nAttachments (3) – their contents were not read for this translation:\n1. 2027년도 창업가형 공학기술 혁신인재 선발 공고문.pdf (2027 Entrepreneurial Engineering Technology Innovation Talent Selection Announcement) (87 KB)\n2. 창업 아이디어 제안서 제출양식(제출시 성명기재).pptx (Start-up Idea Proposal Submission Template – write your name when submitting) (101 KB)\n3. 2027년도 창업가형 공학기술 혁신인재 모집 공고 포스터.jpg (2027 Recruitment Poster) (127 KB)",
+ "id": 31580,
+ "text_hash": "f4e7627cb067235a",
+ "images": 1,
+ "attachments": [
+  "1.2027년도 창업가형 공학기술 혁신인재 선발 공고문.pdf",
+  "2.창업 아이디어 제안서 제출양식(제출시 성명기재).pptx",
+  "3.2027년도 창업가형 공학기술 혁신인재 모집 공고 포스터.jpg"
+ ],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-19",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

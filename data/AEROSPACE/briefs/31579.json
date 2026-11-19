@@ -1,0 +1,35 @@
+{
+ "title_en": "Recruitment of University Student Education Volunteers for Hyundai AutoEver Smart Mobility Engineering Camp",
+ "summary": "The Code Club Korea Committee is recruiting university students as education donors (volunteers) for the Smart Mobility Engineering Experience Camp for elementary and middle school students with hearing impairments. Interested university students should check the application method and details on the notice board of the Code Club Korea Committee website. The camp takes place from 15 to 17 February 2027 at Seoul Samsung School; the notice does not state an application deadline.",
+ "applies_to": "University students who wish to volunteer as education donors at the camp. This is a recruitment call; the notice does not state that participation is required, and it sets no limit by program, year or nationality.",
+ "dates": [
+  {
+   "what": "Camp period (3 days, 2 nights), for selected university student education donors",
+   "when": "Monday 15 February 2027 to Wednesday 17 February 2027",
+   "original_ko": "2027. 2. 15.(월) ~ 2. 17.(수), 2박 3일",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "The notice does not state an application deadline; check the Code Club Korea Committee website for it.",
+  "The application method is given only on the Code Club Korea Committee website notice board, not in this notice.",
+  "The camp runs for 3 days and 2 nights.",
+  "The attached poster image was not read; its content is not included here and may contain further details."
+ ],
+ "steps": [
+  "Visit the Code Club Korea Committee website notice at https://codeclubkorea.org/bbs/board.php?bo_table=notice&wr_id=556 and read the application method and detailed information.",
+  "Apply by following the method stated on that website notice board."
+ ],
+ "translation": "Recruitment of University Student Education Donors for the Hyundai AutoEver Smart Mobility Engineering Experience Camp\n\nThe Code Club Korea Committee (incorporated association) is holding the \"Smart Mobility Engineering Experience Camp\" to give elementary and middle school students with hearing impairments an opportunity for creative education in AI, robotics and smart mobility, and to give university students experience in education donation (volunteer teaching) activities. It is recruiting university student education donors to take part in running the camp.\n\nA. Camp overview\n1) Camp name: Smart Mobility Engineering Experience Camp\n2) Host/organiser: Code Club Korea Committee (incorporated association)\n3) Sponsor: Hyundai AutoEver Corp.\n4) Support: Community Chest of Korea (Sarangui Yeolmae)\n5) Camp period: Monday 15 February 2027 to Wednesday 17 February 2027, 3 days and 2 nights\n6) Venue: Seoul Samsung School (19-4 Yangnyeong-ro 30-gil, Dongjak-gu, Seoul)\n7) Recruiting: university student education donors\n8) Main activities: planning and running an AI and robotics creative education programme for elementary and middle school students with hearing impairments, and supporting educational activities\n\nB. Benefits\n1) Transport expenses provided\n2) Meals during the camp and activity goods (group uniform and souvenirs) provided\n3) Volunteer hours recorded through 1365 (the national volunteer portal)\n4) Hyundai AutoEver activity completion certificate issued\n\nC. Application\n1) How to apply: see the notice board on the Code Club Korea Committee website\n2) Application and detailed information: https://codeclubkorea.org/bbs/board.php?bo_table=notice&wr_id=556\n\nAttachment (1 file): 2026_스공캠_멘토 모집 포스터_겨울방학.png (383 KB) — a recruitment poster image; its content was not read and is not included in this translation.",
+ "id": 31579,
+ "text_hash": "5d8956da18451df1",
+ "images": 1,
+ "attachments": [
+  "2026_스공캠_멘토 모집 포스터_겨울방학.png"
+ ],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-19",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

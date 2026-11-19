@@ -1,0 +1,49 @@
+{
+ "title_en": "Building Access Restrictions for 2027 Engineering Early Admissions Screening",
+ "summary": "Everyone other than personnel involved in the College of Engineering admissions examinations is barred from entering Building 302 from 09:00 on 26 November 2026 (Thursday) until 20:00 on 27 November 2026 (Friday). The same restriction applies to Building 39 from 09:00 on 3 December 2026 (Thursday) until 20:00 on 4 December 2026 (Friday). Students should plan around these closures; access resumes after 8:00 p.m. on the final day of each period.",
+ "applies_to": "Everyone except personnel involved in the College of Engineering admissions examinations. Entry to the restricted buildings is not permitted during the stated periods.",
+ "dates": [
+  {
+   "what": "Building 302 (entire building) closed to all except admissions examination personnel (General Admission screening)",
+   "when": "From 09:00 on Thursday 26 November 2026 to 20:00 on Friday 27 November 2026",
+   "original_ko": "2026. 11. 26.(목) 09:00 ∼ 11. 27.(금) 20:00",
+   "verified": true
+  },
+  {
+   "what": "Building 302 reopens",
+   "when": "After 8:00 p.m. on Friday 27 November 2026",
+   "original_ko": "11. 27.(금) 오후 8시 이후",
+   "verified": true
+  },
+  {
+   "what": "Building 39 (entire building) closed to all except admissions examination personnel (Regional Balance and Opportunity Balance Special Admission screening)",
+   "when": "From 09:00 on Thursday 3 December 2026 to 20:00 on Friday 4 December 2026",
+   "original_ko": "2026. 12. 3.(목) 09:00 ∼ 12. 4.(금) 20:00",
+   "verified": true
+  },
+  {
+   "what": "Building 39 reopens",
+   "when": "After 8:00 p.m. on Friday 4 December 2026",
+   "original_ko": "12. 4.(금) 오후 8시 이후",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "Only personnel involved in the College of Engineering admissions examinations may enter the restricted buildings during the closure periods.",
+  "The restriction covers the entire building in each case: Building 302 and Building 39."
+ ],
+ "steps": [
+  "Do not enter Building 302 from 09:00 on 26 November 2026 until 20:00 on 27 November 2026; arrange in advance any work, study or belongings you will need from the building.",
+  "Do not enter Building 39 from 09:00 on 3 December 2026 until 20:00 on 4 December 2026; arrange in advance any work, study or belongings you will need from the building."
+ ],
+ "translation": "Building Access Restrictions for the 2027 College of Engineering Early (Rolling) Admissions Screening\n\nWe announce the following building access restrictions for the 2027 College of Engineering early (rolling) admissions screening. We ask all members of the college for their cooperation so that the admissions screening can proceed smoothly.\n\n1. General Admission\n a. Restriction period: Thursday 26 November 2026, 09:00 to Friday 27 November 2026, 20:00\n b. Restricted location: All of Building 302, College of Engineering\n ※ Building 302 may be entered after 8:00 p.m. on Friday 27 November.\n\n2. Regional Balance Admission and Opportunity Balance Special Admission\n a. Restriction period: Thursday 3 December 2026, 09:00 to Friday 4 December 2026, 20:00\n b. Restricted location: All of Building 39, College of Engineering\n ※ Building 39 may be entered after 8:00 p.m. on Friday 4 December.\n\n3. Persons restricted: Everyone other than personnel involved in the College of Engineering admissions examinations",
+ "id": 21628,
+ "text_hash": "531da96887aeb924",
+ "images": 0,
+ "attachments": [],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-19",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

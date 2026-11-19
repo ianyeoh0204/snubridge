@@ -1,0 +1,32 @@
+{
+ "title_en": "Hyundai AutoEver Smart Mobility Engineering Experience Camp: Recruiting University Student Education Donors",
+ "summary": "The Code Club Korea Committee is recruiting university students as education donors (volunteers) for the Smart Mobility Engineering Experience Camp, held from 15 to 17 February 2027 at Seoul Samsung School. Volunteers will plan and run AI and robotics creative education programs for deaf and hard-of-hearing elementary and middle school students. Interested students should check the application method and details on the Code Club Korea website notice board and apply there.",
+ "applies_to": "University students wishing to serve as education donors (volunteers). This is a recruitment call, not a mandatory requirement. The notice states no other limits on program, year or nationality.",
+ "dates": [
+  {
+   "what": "Camp period (2 nights, 3 days), during which volunteers take part",
+   "when": "Monday 15 February 2027 to Wednesday 17 February 2027",
+   "original_ko": "2027. 2. 15.(월) ~ 2. 17.(수), 2박 3일",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "The camp lasts 2 nights and 3 days, from 15 to 17 February 2027.",
+  "The notice does not state an application deadline; the deadline and application method are given only on the Code Club Korea website."
+ ],
+ "steps": [
+  "Visit the Code Club Korea Committee website notice: https://codeclubkorea.org/bbs/board.php?bo_table=notice&wr_id=556.",
+  "Read the application method and detailed information in that notice.",
+  "Apply by following the method stated on the Code Club Korea website."
+ ],
+ "translation": "Recruitment of University Student Education Donors for the Hyundai AutoEver Smart Mobility Engineering Experience Camp\n\nA. Camp overview\n1) Camp name: Smart Mobility Engineering Experience Camp\n2) Hosted and organised by: Code Club Korea Committee (incorporated association)\n3) Sponsored by: Hyundai AutoEver Corp.\n4) Supported by: Community Chest of Korea (Sarang-ui Yeolmae)\n5) Camp period: Monday 15 February 2027 to Wednesday 17 February 2027 (2027. 2. 15.(월) ~ 2. 17.(수)), 2 nights and 3 days\n6) Location: Seoul Samsung School (19-4 Yangnyeong-ro 30-gil, Dongjak-gu, Seoul)\n7) Recruiting: university student education donors\n8) Main activities: planning and running AI and robotics creative education programs for deaf and hard-of-hearing elementary and middle school students, and supporting educational activities\n\nB. Benefits\n1) Transportation expenses provided\n2) Meals and activity goods (group uniform and souvenirs) provided during the camp\n3) Volunteer hours credited through 1365\n4) Hyundai AutoEver certificate of completion issued\n\nC. Application\n1) How to apply: see the notice board on the Code Club Korea Committee website\n2) Application and detailed information: https://codeclubkorea.org/bbs/board.php?bo_table=notice&wr_id=556",
+ "id": 24085,
+ "text_hash": "a295903610b153b6",
+ "images": 1,
+ "attachments": [],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-19",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

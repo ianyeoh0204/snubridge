@@ -1,0 +1,59 @@
+{
+ "title_en": "Application for On-Campus Scholarships, Spring 2027",
+ "summary": "Undergraduate and graduate students who wish to receive an on-campus scholarship for Spring 2027 must apply through my SNU, have the application documents stamped with their academic advisor's seal, and submit them to the department office. The application period is 23 November 2026 to 11 December 2026 at 18:00. Late applications are not accepted, and students who do not apply cannot receive on-campus or Development Foundation scholarships.",
+ "applies_to": "Undergraduate and graduate students registered for Spring 2027 who wish to receive an on-campus scholarship for that semester, international students, and students who have newly become eligible for the national merit (국가유공) or North Korean defector (북한이탈) scholarships. Applying is mandatory for any student who wishes to receive an on-campus or Development Foundation scholarship. New graduate students must apply on the attached paper form because my SNU application is not available to them.",
+ "dates": [
+  {
+   "what": "Scholarship application period (my SNU application and submission of documents with the advisor's seal to the department office)",
+   "when": "Monday 23 November 2026 to Friday 11 December 2026, 18:00",
+   "original_ko": "2026. 11. 23.(월) ~ 2026. 12. 11.(금) 18:00",
+   "verified": true
+  },
+  {
+   "what": "Deadline for international students applying for the customised scholarship for international students: submit income proof documents as a PDF to the department office",
+   "when": "By Friday 15 January 2027",
+   "original_ko": "2027. 1. 15.(금)까지",
+   "verified": true
+  },
+  {
+   "what": "Recommended time to apply for the student financial aid income bracket calculation (about 8 weeks are needed): early January for the spring semester, early July for the fall semester",
+   "when": "Early January (spring semester); early July (fall semester)",
+   "original_ko": "1학기 1월 초, 2학기 7월 초 신청 권장",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "Students who do not apply cannot receive any on-campus or Development Foundation scholarship.",
+  "Additional (late) applications are not accepted.",
+  "The application documents must bear the academic advisor's seal (stamp).",
+  "New graduate students cannot apply through my SNU and must instead submit the attached application form to the department office.",
+  "Undergraduates who need a recommendation letter for insufficient grades must have a grade point average of at least 1.7 in the previous semester.",
+  "The income bracket calculation request also applies to students not eligible for the national scholarship, such as students returning from leave or military service and recipients of other scholarships.",
+  "Graduate students can obtain an income bracket only by applying for a student loan.",
+  "A new scholarship for low-income graduate students is planned from Spring 2027, so graduate students must apply for the income bracket calculation.",
+  "The income bracket calculation takes about 8 weeks, so students should apply early."
+ ],
+ "steps": [
+  "Read the attached guide for your level (undergraduate or graduate scholarship application guide); the attachments were not read and their content is not included here.",
+  "Students other than new graduate students: Apply for the scholarship and complete the application form in my SNU (마이스누).",
+  "New graduate students: Complete the attached Scholarship Selection Application Form (장학선정신청서), because the my SNU application is not available to you.",
+  "Have your academic advisor stamp the application documents with their seal (날인).",
+  "Submit the stamped application documents to the department office by 11 December 2026 at 18:00.",
+  "International students applying for the customised scholarship for international students: Submit your income proof documents as a PDF to the department office by 15 January 2027.",
+  "Apply for the student financial aid income bracket calculation (학자금지원구간 산정): undergraduates through a Korea Student Aid Foundation application for the national scholarship, national work-study or a student loan; graduate students through a student loan application. Apply early, as it takes about 8 weeks."
+ ],
+ "translation": "Application for On-Campus Scholarships, Spring 2027\n\nWe announce the following regarding applications for on-campus scholarships for Spring 2027 (2027학년도 1학기). Students (undergraduate and graduate) who wish to receive an on-campus scholarship should apply on my SNU, have the application documents stamped with their academic advisor's seal (날인), and submit them to the department office within the deadline.\n\nA. Eligible applicants: undergraduate and graduate students registered for Spring 2027 who wish to receive an on-campus scholarship for Spring 2027, international students, and students who have newly become eligible for the national merit (국가유공) or North Korean defector (북한이탈) scholarships.\n\nB. Application period: Monday 23 November 2026 to Friday 11 December 2026, 18:00.\n※ Students who do not apply cannot receive on-campus or Development Foundation (발전재단) scholarships, so you must apply. (Additional applications are not accepted.)\n\nC. How to apply: Complete the application form on my SNU (마이스누), obtain your academic advisor's seal, and submit it to the department office.\n** New graduate students cannot apply on my SNU; complete the attached application form and submit it to the department office.\n\nD. Requests for cooperation\n1) Customised scholarship for international students (유학생 맞춤형장학금): submit income proof documents as a PDF to the department office by Friday 15 January 2027.\n2) Apply for the student financial aid income bracket calculation (학자금지원구간 산정), which is used to select scholarship recipients.\n- This includes students not eligible for the national scholarship, such as students returning from leave or military service and recipients of other scholarships.\n- Undergraduates: through a Korea Student Aid Foundation (한국장학재단) application for the national scholarship (국가장학금), national work-study (국가근로) or a student loan (학자금 대출).\n※ For an undergraduate recommendation letter for insufficient grades (성적미달 추천서), the grade point average of the previous semester must be at least 1.7.\n- Graduate students: the income bracket can be calculated by applying for a student loan.\n※ A new scholarship for low-income graduate students is planned from Spring 2027 ('27-1학기), so you must apply for the income bracket calculation. (The income bracket calculation takes about 8 weeks, so apply in advance; applying in early January for the spring semester and in early July for the fall semester is recommended.)\n\nAttachments (3) (not read; their content is not included in this translation):\n1. 2027학년도 1학기 학부생 교내장학금 신청 안내.hwp (Spring 2027 on-campus scholarship application guide for undergraduates)\n2. 2027학년도 1학기 대학원생 교내장학금 신청 안내.hwp (Spring 2027 on-campus scholarship application guide for graduate students)\n3-1. 2027학년도 1학기 장학선정신청서.hwp (Spring 2027 Scholarship Selection Application Form)",
+ "id": 24084,
+ "text_hash": "8efdad67773cc3bc",
+ "images": 0,
+ "attachments": [
+  "1. 2027학년도 1학기 학부생 교내장학금 신청 안내.hwp",
+  "2. 2027학년도 1학기 대학원생 교내장학금 신청 안내.hwp",
+  "3-1. 2027학년도 1학기 장학선정신청서.hwp"
+ ],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-19",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

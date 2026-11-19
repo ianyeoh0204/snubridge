@@ -1,38 +1,28 @@
 {
  "title_en": "Fall 2026 Master's and Doctoral Thesis Examination Public Presentation Schedule (Subject to Change)",
- "summary": "The Fall 2026 public presentation schedules for master's thesis examinations and doctoral preliminary thesis examinations are provided only in two PDF attachments to the original notice; the attachments were not read for this translation. Attendees, including students enrolled in the Master's/Doctoral Seminar, must check the attached schedules, including on the day of each examination itself, because times and venues may change at any time. Questions should be directed to the department office (Building 301, Room 319).",
- "applies_to": "Attendees of the Fall 2026 master's and doctoral (preliminary examination) thesis public presentations, including students enrolled in the Master's/Doctoral Seminar. Attendees must check the attached schedule, including on the day of the examination.",
- "dates": [
-  {
-   "what": "Attendees, including Master's/Doctoral Seminar students, must check the attached schedule again on the day of each examination, as the time and venue may change",
-   "when": "On the day of the examination (specific dates are given only in the attachments, which were not read)",
-   "original_ko": "심사 당일",
-   "verified": true
-  }
- ],
+ "summary": "The schedules for the Fall 2026 master's thesis examination public presentations and doctoral public presentations (preliminary examination) are provided in the attached files, which were not read for this translation. Attendees, including students enrolled in the master's/doctoral seminar, must check the attached files again on the day of the examination, because times, locations and other details may change at any time. Questions may be directed to the department office (Building 301, Room 319).",
+ "applies_to": "Master's and doctoral students presenting in the Fall 2026 thesis examination public presentations, and all attendees, including students enrolled in the master's/doctoral seminar (석박사세미나). Attendees must check the attached schedule on the day of the examination.",
+ "dates": [],
  "conditions": [
-  "The schedules are given only in the PDF attachments, which were not read for this translation; the dates, times and venues are not stated in the notice text.",
-  "The schedules may change at any time without separate notice, including times and venues.",
-  "Attendees must check the attachments on the day of the examination itself, not only in advance."
+  "The schedules in the attached files may be changed at any time, including times and locations.",
+  "Attendees, including students enrolled in the master's/doctoral seminar, must check the attached files on the day of the examination itself."
  ],
  "steps": [
-  "Open the attachments to the original notice: \"2026-2학기 석사 심사 일정.pdf\" (master's examination schedule) and \"2026-2학기 박사 초심 일정.pdf\" (doctoral preliminary examination schedule).",
-  "Find the time and venue of the presentations you will attend.",
-  "On the day of the examination, check the attachments again for any change to the time or venue before attending.",
+  "Read the attached files for the schedule: '2026-2학기 석사 심사 일정.pdf' (master's examinations) and '2026-2학기 박사 초심 일정.pdf' (doctoral preliminary examinations). The content of these attachments was not read for this translation.",
+  "On the day of the examination, check the attached files again for any change in time or location before attending.",
   "For questions, contact the department office (Building 301, Room 319); contact details are in the original notice."
  ],
- "translation": "★(Subject to change) Fall 2026 Master's/Doctoral Thesis Examination Public Presentation Schedule\n\nWe announce the public presentation schedule for master's and doctoral thesis examinations for Fall 2026.\n\n1. Master's public presentation schedule\n- See the attached file (the content may change at any time).\n\n2. Doctoral public presentation (preliminary examination [초심]) schedule\n- See the attached file (the content may change at any time).\n\n3. Notes\n- The public presentation schedule (attached files) is updated from time to time. Because the time, venue and other details may change, attendees, including students enrolled in the Master's/Doctoral Seminar [석박사세미나], must check the attached files on the day of the examination as well.\n\n4. Inquiries\n- Department office (Building 301, Room 319). The staff contact name, phone number and email address are given in the original notice.\n\nAttachments (2):\n- 2026-2학기 박사 초심 일정.pdf (Fall 2026 doctoral preliminary examination schedule, 153 KB)\n- 2026-2학기 석사 심사 일정.pdf (Fall 2026 master's examination schedule, 140 KB)\n\n(Translator's note: the attached PDF files were not read; their content is not included in this translation.)",
+ "translation": "★(Changes at any time) Fall 2026 Master's/Doctoral Thesis Examination Public Presentation Schedule\n\nWe announce the schedule of the Fall 2026 master's/doctoral thesis examination public presentations.\n\n1. Master's public presentation schedule\n- Refer to the attached file (the content may change at any time).\n\n2. Doctoral public presentation (preliminary examination, 초심) schedule\n- Refer to the attached file (the content may change at any time).\n\n3. Notes\n- The public presentation schedule (attached files) is updated at any time. As times, locations and other details may change, attendees, including students enrolled in the master's/doctoral seminar (석박사세미나), must check the attached files on the day of the examination as well.\n\n4. Inquiries\n- Department office (Building 301, Room 319). The contact person, phone number and email address are given in the original notice.\n\nAttachments (2):\n- 2026-2학기 박사 초심 일정.pdf (153 KB) (Fall 2026 doctoral preliminary examination schedule)\n- 2026-2학기 석사 심사 일정.pdf (187 KB) (Fall 2026 master's examination schedule)\n\n[Note: The contents of the attached files were not read for this translation.]",
  "id": 58160,
- "text_hash": "5a18ef648fcfc465",
+ "text_hash": "7728adbddfec1f68",
  "images": 0,
  "attachments": [
   "2026-2학기 박사 초심 일정.pdf",
   "2026-2학기 석사 심사 일정.pdf"
  ],
  "model": "claude-opus-5-5",
- "written": "2026-11-17",
+ "written": "2026-11-19",
  "prompt": 2,
  "titles": 0,
- "revised": true,
- "stale": "2026-11-19"
+ "revised": true
 }
