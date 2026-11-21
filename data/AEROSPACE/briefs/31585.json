@@ -1,0 +1,26 @@
+{
+ "title_en": "Event Announcement: Ulsan Industrial AX Action Conference",
+ "summary": "The department has posted an announcement of the Ulsan Industrial AX Action Conference. The notice text contains only the title and two attachments: an event overview with a detailed schedule, and a poster. The attachments were not read, so the dates, location, eligibility and any registration requirements are not available here.",
+ "applies_to": "",
+ "dates": [],
+ "conditions": [
+  "The notice text does not state who may attend, whether attendance is required, or any registration conditions; these may appear in the attachments, which were not read."
+ ],
+ "steps": [
+  "Open the two attachments to the original notice for the event details: Attachment 1, the event overview and detailed schedule (울산 산업 AX 액션 컨퍼런스 행사 개요 및 세부일정.hwp), and Attachment 2, the poster (포스터.png). Their content was not read for this translation.",
+  "For questions, contact the department office; the contact details are in the original notice."
+ ],
+ "translation": "Event Announcement: Ulsan Industrial AX Action Conference [「울산 산업AX 액션 컨퍼런스」 행사 안내]\n\nAttachments (2)\n- Attachment 1. Ulsan Industrial AX Action Conference: Event Overview and Detailed Schedule (.hwp file, 709 KB) [붙임1. 울산 산업 AX 액션 컨퍼런스 행사 개요 및 세부일정.hwp]\n- Attachment 2. Poster (.png file, 6 MB) [붙임2. 포스터.png]\n\n(Translator's note: The notice contains no body text beyond the title and the list of attachments. The attachments were not read, so their content, including the event date, time, venue and any registration details, is not included in this translation.)",
+ "id": 31585,
+ "text_hash": "50ca671526608db4",
+ "images": 1,
+ "attachments": [
+  "붙임1. 울산 산업 AX 액션 컨퍼런스 행사 개요 및 세부일정.hwp",
+  "붙임2. 포스터.png"
+ ],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-21",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

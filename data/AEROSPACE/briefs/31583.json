@@ -1,54 +1,64 @@
 {
- "title_en": "Information for Applicants Admitted in the 2027 Graduate School First-Round Admission",
- "summary": "Applicants admitted to the graduate school in the 2027 first-round (전기) admission must register by paying tuition between 1 February 2027 (Mon) 10:00 and 5 February 2027 (Fri) 16:00, using the tuition bill printed from the admission website. They must also submit original degree (graduation) certificates and any other required documents by 11 February 2027 (Thu) to the academic administration office of the college or graduate school to which their admission unit belongs (Natural Sciences and Engineering: the department office). Admission will be cancelled if documents are not submitted on time without a special reason.",
- "applies_to": "All applicants admitted to the graduate school in the 2027 first-round (전기모집) admission; registration and document submission are mandatory. Bachelor's degree certificate: master's and integrated master's-doctoral program admittees. Master's degree certificate: doctoral program admittees. Immigration record or medical certificate: only those admitted after taking a video interview. Additional verification documents: only graduates of foreign universities or graduate schools.",
+ "title_en": "Spring 2027 Graduate Admission: Information for Admitted Applicants",
+ "summary": "Applicants admitted in the 2027 graduate school first-round (spring) admission must pay tuition between 1 February 2027, 10:00, and 5 February 2027, 16:00, using the tuition invoice printed from the admission website. They must also submit the required original documents by 11 February 2027 to the academic administration office of the college or graduate school to which their program belongs (applicants to the College of Natural Sciences and the College of Engineering submit to their department office). Admission is cancelled if documents are not submitted on time without a special reason.",
+ "applies_to": "All applicants admitted in the 2027 academic year graduate school first-round (spring) admission (전기모집). This includes master's, integrated master's-doctoral and doctoral program admits. Registration (tuition payment) and document submission are mandatory. The degree certificate requirements depend on the program admitted to. The additional documents (such as a certificate of entry and exit or a medical certificate) apply only to applicants who were admitted after taking a video interview. Extra verification requirements apply to graduates of foreign universities.",
  "dates": [
   {
-   "what": "Registration (tuition payment) period for all admitted applicants; the tuition bill can be printed during this period",
-   "when": "1 February 2027 (Monday) 10:00 to 5 February 2027 (Friday) 16:00",
+   "what": "Registration period (tuition payment) for all admitted applicants",
+   "when": "Monday 1 February 2027, 10:00 to Friday 5 February 2027, 16:00",
    "original_ko": "2027. 2. 1.(월) 10:00 ~ 2. 5.(금) 16:00",
    "verified": true
   },
   {
-   "what": "Period in which the certificate of admission can be printed (it cannot be reissued afterwards)",
-   "when": "Only during the announcement period and the registration period",
+   "what": "Tuition invoice can be printed from the admission results screen",
+   "when": "During the registration period only",
+   "original_ko": "등록기간 중",
+   "verified": true
+  },
+  {
+   "what": "Certificate of admission can be printed",
+   "when": "Only during the announcement and registration periods; it is not reissued afterwards",
    "original_ko": "발표·등록기간 중에만",
    "verified": true
   },
   {
-   "what": "Deadline for submitting required documents",
-   "when": "By 11 February 2027 (Thursday)",
+   "what": "Deadline for submitting required documents for all admitted applicants",
+   "when": "By Thursday 11 February 2027",
    "original_ko": "2027. 2. 11.(목) 까지",
    "verified": true
   }
  ],
  "conditions": [
-  "Tuition can be paid only at NongHyup Bank (nationwide), Woori Bank or Shinhan Bank, by virtual account transfer or credit card.",
+  "Admission will be cancelled if the required documents are not submitted by the deadline without a special reason.",
   "The certificate of admission can be printed only during the announcement and registration periods and will not be reissued.",
-  "Degree (graduation) certificates must be originals.",
-  "The immigration record certificate, medical certificate or similar document is required only from those admitted after a video interview, as requested by the admission unit.",
-  "Graduates of foreign universities must submit an apostille with their degree (graduation) certificate.",
-  "If the country is not a member of the Apostille Convention, submit a Confirmation of Overseas Educational Institution or consular confirmation instead.",
-  "Graduates of universities in China must submit consular confirmation or an apostille of both the graduation certificate and degree certificate, together with the CHSI Online Verification Report of Student Record.",
-  "Documents not written in Korean or English must be accompanied by a notarised Korean or English translation.",
-  "If documents are not submitted by the deadline without a special reason, admission will be cancelled."
+  "Degree (graduation) certificates must be submitted as original documents.",
+  "Master's and integrated master's-doctoral program admits must submit a bachelor's degree (graduation) certificate; doctoral program admits must submit a master's degree (graduation) certificate.",
+  "Only applicants admitted after a video interview must submit a certificate of entry and exit, a medical certificate or similar document, as requested by their program in connection with the video interview.",
+  "Graduates of foreign universities must submit an apostille together with their degree (graduation) certificate.",
+  "Graduates from countries that have not joined the Apostille Convention must submit a confirmation from the foreign educational institution or a consular confirmation instead.",
+  "Graduates of universities in China must submit consular confirmation or an apostille of both the graduation certificate and the degree certificate, together with the CHSI Online Verification Report of Student Record (see www.chsi.com.cn).",
+  "Documents not written in Korean or English must be accompanied by a notarized Korean or English translation.",
+  "Applicants to the College of Natural Sciences and the College of Engineering must submit documents to their department (school) office, not the college academic administration office."
  ],
  "steps": [
-  "During the registration period, print the tuition bill from the admitted-applicant confirmation screen on the admission website (admission.snu.ac.kr) > Graduate School (대학원) > General Graduate School (일반대학원) > Notices (공지사항) board, and check the amount due.",
-  "Pay the tuition between 1 February 2027 10:00 and 5 February 2027 16:00 by virtual account transfer or credit card (banks: NongHyup, Woori, Shinhan).",
-  "During the announcement or registration period, print your certificate of admission from the same admitted-applicant confirmation screen; it cannot be reissued.",
-  "Prepare the original bachelor's degree certificate (master's or integrated master's-doctoral admittees) or master's degree certificate (doctoral admittees), with an apostille, consular confirmation, Confirmation of Overseas Educational Institution, CHSI report and notarised translation as applicable.",
-  "If you were admitted after a video interview, prepare one immigration record certificate, medical certificate or other document requested by your admission unit.",
-  "Submit the documents by 11 February 2027 to the academic administration office (교무행정실) of the college or graduate school your admission unit belongs to; College of Natural Sciences and College of Engineering admittees submit to their department or school office instead."
+  "Read the attached file (2027학년도 대학원 전기모집 합격자 안내사항.hwp); its content was not read for this translation and may contain further details.",
+  "During the registration period, print the tuition invoice (등록금고지서) from the admission results screen: admission website (admission.snu.ac.kr) > Graduate School (대학원) > General Graduate School (일반대학원) > Notices (공지사항) board. The tuition amount is shown on the invoice.",
+  "Pay tuition between 1 February 2027, 10:00, and 5 February 2027, 16:00, by virtual account transfer or credit card; payment can be made at any branch of NongHyup Bank, Woori Bank or Shinhan Bank nationwide.",
+  "Print the certificate of admission (합격증) from the same admission results screen during the announcement or registration period, as it will not be reissued.",
+  "Prepare the original degree (graduation) certificate: bachelor's for master's and integrated master's-doctoral admits, master's for doctoral admits; if you graduated from a foreign university, add the apostille, consular confirmation or institutional confirmation, CHSI report (China) and notarized translations as required.",
+  "If you were admitted after a video interview, prepare the certificate of entry and exit, medical certificate or other document requested by your program.",
+  "Submit all documents by 11 February 2027 to the academic administration office (교무행정실) of the college or graduate school to which your program belongs; if your program is in the College of Natural Sciences or the College of Engineering, submit them to your department (school) office."
  ],
- "translation": "[Graduate School] Information for Applicants Admitted in the 2027 Graduate School First-Round Admission\n\n1. Registration of admitted applicants (tuition payment)\n a. Registration period: 1 February 2027 (Mon) 10:00 to 5 February 2027 (Fri) 16:00\n b. Banks for payment: NongHyup Bank (nationwide), Woori Bank, Shinhan Bank\n c. Payment method: virtual account transfer, credit card\n d. Amount: can be checked on the tuition bill\n e. Tuition bill: can be printed during the registration period from the admitted-applicant confirmation screen ⇒ Admission website (admission.snu.ac.kr) - Graduate School (대학원) - General Graduate School (일반대학원) - Notices (공지사항) board\n\n2. Certificate of admission\nCan be printed from the admitted-applicant confirmation screen ⇒ Admission website (admission.snu.ac.kr) - Graduate School (대학원) - General Graduate School (일반대학원) - Notices (공지사항) board. ※ The certificate of admission can be printed only during the announcement and registration periods and will not be reissued.\n\nDocument submission: by 11 February 2027 (Thu) / to the academic administration office (교무행정실) of the college or graduate school to which the admission unit belongs. ※ Admittees of the College of Natural Sciences and the College of Engineering should submit to the office of the admission unit (department or school) they applied to.\n\nRequired documents | Remarks\n- One bachelor's degree (graduation) certificate (master's and integrated master's-doctoral program admittees); one master's degree (graduation) certificate (doctoral program admittees) | Submit original documents. Graduates of foreign universities (graduate schools): see below.\n- One immigration record certificate (출입국사실증명서), medical certificate or similar | Only for those admitted after taking a video interview. Documents requested by the admission unit in connection with the video interview.\n\n※ Degree (graduation) certificates of graduates of foreign universities (graduate schools): submit together with an apostille.\n- Countries not party to the Apostille Convention: submit together with a Confirmation of Overseas Educational Institution (국외교육기관확인서) or consular confirmation.\n- Universities (graduate schools) located in China: graduates must submit consular confirmation or an apostille of the graduation certificate and degree certificate together with the Online Verification Report of Student Record from the China Ministry of Education's degree certification centre (CHSI) (see www.chsi.com.cn).\n- Documents not written in Korean or English must be accompanied by a notarised Korean or English translation.\n\n※ If documents are not submitted by the deadline without a special reason, admission will be cancelled.",
+ "translation": "[Graduate School] Information for Admitted Applicants, 2027 Academic Year Graduate School First-Round (Spring) Admission\n\n1. Registration of admitted applicants (tuition payment)\nA. Registration period: Monday 1 February 2027, 10:00 to Friday 5 February 2027, 16:00\nB. Banks for payment: NongHyup Bank, Woori Bank and Shinhan Bank, nationwide\nC. Payment methods: virtual account transfer, credit card payment\nD. Tuition amount: shown on the tuition invoice\nE. Tuition invoice (등록금고지서): can be printed from the admission results screen during the registration period ⇒ admission website (admission.snu.ac.kr) - Graduate School (대학원) - General Graduate School (일반대학원) - Notices (공지사항) board\n\n2. Certificate of admission (합격증)\nCan be printed from the admission results screen ⇒ admission website (admission.snu.ac.kr) - Graduate School (대학원) - General Graduate School (일반대학원) - Notices (공지사항) board\n※ The certificate of admission can be printed only during the announcement and registration periods and will not be reissued.\n\nDocument submission: by Thursday 11 February 2027 / to the academic administration office (교무행정실) of the college (graduate school) to which the program belongs\n※ Applicants to the College of Natural Sciences and the College of Engineering should submit to the office of the program (department/school) they applied to.\n\nRequired documents | Remarks\n- Bachelor's degree (graduation) certificate, 1 copy (master's and integrated master's-doctoral program admits); master's degree (graduation) certificate, 1 copy (doctoral program admits) | Submit original documents. Graduates of foreign universities: see below.\n- Certificate of entry and exit (출입국사실증명서), medical certificate or similar, 1 copy | Only for applicants admitted after taking a video interview. Documents requested by the program in connection with the video interview.\n\n※ Degree (graduation) certificates of graduates of foreign universities: submit together with an apostille.\n- Countries that have not joined the Apostille Convention: submit together with a confirmation from the foreign educational institution (국외교육기관확인서) or consular confirmation.\n- Universities located in China: graduates of Chinese universities must submit consular confirmation or an apostille of the graduation certificate and degree certificate, together with the Online Verification Report of Student Record from the China Ministry of Education's degree certification center (CHSI) (see www.chsi.com.cn).\n- Documents not written in Korean or English must be accompanied by a notarized Korean or English translation.\n\n※ If documents are not submitted by the deadline without a special reason, admission will be cancelled.\n\nAttachment (1): 2027학년도 대학원 전기모집 합격자 안내사항.hwp (124 KB). The content of this attachment was not read.",
  "id": 31583,
- "text_hash": "6c4e57e5c1f763cd",
+ "text_hash": "1537bd67544fae4d",
  "images": 0,
- "attachments": [],
+ "attachments": [
+  "2027학년도 대학원 전기모집 합격자 안내사항.hwp"
+ ],
  "model": "claude-opus-5-5",
- "written": "2026-11-20",
+ "written": "2026-11-21",
  "prompt": 2,
  "titles": 0,
- "revised": false
+ "revised": true
 }

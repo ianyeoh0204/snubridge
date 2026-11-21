@@ -1,0 +1,36 @@
+{
+ "title_en": "Ulsan Industrial AX Action Conference: Event Information",
+ "summary": "Interested students, including undergraduate and graduate students, are invited to attend the Ulsan Industrial AX Action Conference on Tuesday, 24 November 2026, from 10:00 to 17:00, in Halls A and B on the 3rd floor of the Ulsan Exhibition and Convention Center (UECO). Attendance is free. To apply, scan the QR code on the event poster and complete and submit the online application form.",
+ "applies_to": "Optional event. The stated participants are company employees, future talent (university and graduate students, and students of vocational high schools) and staff of related organisations, among others. The notice does not limit participation by program, year or nationality.",
+ "dates": [
+  {
+   "what": "Conference date and hours",
+   "when": "Tuesday, 24 November 2026, 10:00 to 17:00",
+   "original_ko": "2026. 11. 24.(화) 10:00 ~ 17:00",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "Participation is free of charge.",
+  "Registered attendees receive lunch (a boxed meal) and a small souvenir.",
+  "The notice does not state an application deadline."
+ ],
+ "steps": [
+  "Read the attached event overview and detailed schedule (Attachment 1, .hwp file); its content was not included in the notice text and has not been translated here.",
+  "Scan the QR code on the event poster and complete and submit the online application form. The poster was not included in the notice text and has not been read.",
+  "Attend on Tuesday, 24 November 2026, at Halls A and B on the 3rd floor of the Ulsan Exhibition and Convention Center (UECO), and register as an attendee on arrival to receive lunch and a souvenir.",
+  "For questions, contact the AI Talent Development Group of the Ulsan Information Technology Industry Promotion Agency; the contact details are in the original notice."
+ ],
+ "translation": "Ulsan Industrial AX Action Conference: Event Information\n\nA. Event: Ulsan Industrial AX Action Conference\n\nB. Date, time and venue: Tuesday, 24 November 2026, 10:00 to 17:00 / Halls A and B, 3rd floor, Ulsan Exhibition and Convention Center (UECO)\n\nC. Host / Organiser: Ministry of Employment and Labor (Human Resources Development Service of Korea) / Ulsan Information Technology Industry Promotion Agency\n\nD. Intended participants: company employees, future talent (university and graduate students, and students of vocational high schools), staff of related organisations, and others\n\nE. Main programme: keynote speech on trends in industrial AX; presentations of AX application cases in the automotive and shipbuilding fields (Hall A) and in the chemical, energy and other fields (Hall B)\n\nF. Participation fee: free. Note: registered attendees will be provided with lunch (a boxed meal) and a small souvenir.\n\nG. How to apply: scan the QR code on the poster, then complete and submit the online application form. (The poster was not included in the notice text and has not been read.)\n\nH. Enquiries: the person in charge at the AI Talent Development Group, Ulsan Information Technology Industry Promotion Agency (contact details are in the original notice).\n\nAttachment (1 file)\nAttachment 1. Ulsan Industrial AX Action Conference event overview and detailed schedule.hwp (709 KB). The content of this attachment was not included in the notice text and has not been read.",
+ "id": 24088,
+ "text_hash": "cc213657eb027141",
+ "images": 1,
+ "attachments": [
+  "붙임1. 울산 산업 AX 액션 컨퍼런스 행사 개요 및 세부일정.hwp"
+ ],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-21",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

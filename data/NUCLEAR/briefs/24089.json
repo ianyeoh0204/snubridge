@@ -1,0 +1,37 @@
+{
+ "title_en": "SNU AI Innovation Day and 2nd SNU Generative AI Competition: Joint Event",
+ "summary": "All members of the university are invited to attend SNU AI Innovation Day, held jointly with the 2nd Seoul National University Generative AI Competition. The event takes place on Monday, 30 November 2026, from 10:00 to 17:00 at SNU Commons, Administration Building (University Headquarters, Building 60, 1st floor). The competition finals run from 14:00 to 17:00, and no application is needed to attend.",
+ "applies_to": "All members of the university are invited to attend. Attendance is optional, and no application is required.",
+ "dates": [
+  {
+   "what": "SNU AI Innovation Day and 2nd SNU Generative AI Competition (joint event), open to all university members",
+   "when": "Monday, 30 November 2026, 10:00–17:00",
+   "original_ko": "'26.11.30.(월) 10:00 ~ 17:00",
+   "verified": true
+  },
+  {
+   "what": "Finals of the 2nd SNU Generative AI Competition",
+   "when": "Monday, 30 November 2026, 14:00–17:00",
+   "original_ko": "14:00 ~ 17:00",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "No separate application is required to attend.",
+  "The competition finals are held only from 14:00 to 17:00, to suit the academic schedule of students, who make up most of the participants."
+ ],
+ "steps": [
+  "Go to SNU Commons, Administration Building (University Headquarters, Building 60, 1st floor), on Monday, 30 November 2026, between 10:00 and 17:00. No application is needed.",
+  "Visit the booths set up by each team to try their services in person. The competition finals can be seen between 14:00 and 17:00."
+ ],
+ "translation": "SNU AI Innovation Day x 2nd Seoul National University Generative AI Competition: Notice of Joint Event\n\n<SNU AI Innovation Day>, where members of SNU AIVA share the results of the administrative AX (AI transformation) projects carried out over the year, will be held jointly with <The 2nd Seoul National University Generative AI Competition>, which aims to build a culture of AI use across all members of the university and to discover creative ideas. Together they will provide an integrated experience of AX in education, research and administration. Please help as many members as possible to attend.\n\nA. Event schedule: Monday, 30 November 2026, 10:00–17:00 / SNU Commons, Administration Building (University Headquarters, Building 60, 1st floor)\n※ The competition finals will be held from 14:00 to 17:00, to suit the academic schedule of students, who make up most of the participants.\n\nB. Event content: Hands-on exhibitions by SNU AIVA members and by each team that has advanced to the competition finals\n※ Visitors can try the services in person at each team's booth and may attend without any separate application.\n※ Information booths will be set up by the companies working with the university on its AI platform (Naver Cloud, MindLogic and OpenAI).",
+ "id": 24089,
+ "text_hash": "ac27d06d30d401e9",
+ "images": 1,
+ "attachments": [],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-21",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}
