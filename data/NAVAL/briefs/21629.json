@@ -1,0 +1,28 @@
+{
+ "title_en": "Re-posted: Korea Polar Research Institute Postdoctoral Researcher Recruitment, Second Half of 2026",
+ "summary": "The Korea Polar Research Institute (KOPRI) has re-posted its recruitment of postdoctoral researchers (연수연구원) for the second half of 2026. Interested applicants should consult the recruitment page at https://kopri.recruiter.co.kr/career/jobs/135009 for details. The deadline is Friday, 4 December, 18:00.",
+ "applies_to": "Not stated in the notice. This is a re-posted recruitment notice for postdoctoral researchers at the Korea Polar Research Institute (KOPRI), and applying is optional. Eligibility requirements are not given in the notice itself; they may be on the linked recruitment page, which was not read.",
+ "dates": [
+  {
+   "what": "Deadline for the KOPRI postdoctoral researcher recruitment (re-posted notice)",
+   "when": "Friday, 4 December, 18:00 (the year is not written in the date; the notice concerns the second half of 2026)",
+   "original_ko": "~12/4(금) 18:00",
+   "verified": true
+  }
+ ],
+ "conditions": [],
+ "steps": [
+  "Visit the KOPRI recruitment page at https://kopri.recruiter.co.kr/career/jobs/135009 and read the full posting. Its content was not included in this notice and was not read.",
+  "Follow the instructions on that page before the deadline of Friday, 4 December, 18:00."
+ ],
+ "translation": "Title: Re-posted Notice: Recruitment of Postdoctoral Researchers (연수연구원, 박사후) at the Korea Polar Research Institute, Second Half of 2026 (until Friday, 12/4, 18:00)\n\nRecruitment notice URL: https://kopri.recruiter.co.kr/career/jobs/135009\n\n(The notice contains only the title and the link above. The content of the linked page was not read.)",
+ "id": 21629,
+ "text_hash": "c425cc1d7a9b56ba",
+ "images": 1,
+ "attachments": [],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-23",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

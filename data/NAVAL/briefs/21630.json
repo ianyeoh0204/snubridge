@@ -1,0 +1,28 @@
+{
+ "title_en": "Re-announcement: Korea Polar Research Institute Trainee Recruitment, Second Half of 2026",
+ "summary": "The Korea Polar Research Institute has re-announced its trainee recruitment for the second half of 2026, and the period runs until Friday, 4 December, at 18:00. The notice gives no eligibility, document or procedure details; students who are interested should read the full job posting at https://kopri.recruiter.co.kr/career/jobs/135012.",
+ "applies_to": "",
+ "dates": [
+  {
+   "what": "Close of the re-announced trainee recruitment (the notice does not say what must be submitted by this time; see the linked job posting)",
+   "when": "Until Friday, 4 December, 18:00",
+   "original_ko": "~12/4(금) 18:00",
+   "verified": true
+  }
+ ],
+ "conditions": [],
+ "steps": [
+  "Open the job posting at https://kopri.recruiter.co.kr/career/jobs/135012 and read the eligibility requirements and application procedure there, because the department notice does not include them.",
+  "Complete whatever the job posting requires before Friday, 4 December, 18:00."
+ ],
+ "translation": "Title: Re-announcement of the Korea Polar Research Institute Trainee Recruitment for the Second Half of 2026 (until Friday, 4 December, 18:00)\n\nJob posting URL: https://kopri.recruiter.co.kr/career/jobs/135012\n\n(Note: The notice consists only of the title and the link above. The content of the linked job posting is not included in the notice and was not read.)",
+ "id": 21630,
+ "text_hash": "f245ef8d2fa14fbe",
+ "images": 1,
+ "attachments": [],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-23",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

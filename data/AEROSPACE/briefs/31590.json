@@ -1,0 +1,38 @@
+{
+ "title_en": "Spring 2027 National Scholarship (국가장학금) First-Round Application",
+ "summary": "Undergraduate students, including current, incoming, returning, transfer and readmitted students, who wish to receive the National Scholarship for Spring 2027 should apply on the Korea Student Aid Foundation (KOSAF) website (www.kosaf.go.kr) or mobile app between 24 November 2026, 09:00, and 7 January 2027, 18:00. Required documents and household members' consent to provide information must be completed by 14 January 2027, 18:00. Current students are expected to apply in this first round, as relief for missing the application period is available only twice during enrollment.",
+ "applies_to": "Undergraduate (학사과정) students: currently enrolled students, incoming students (including prospective entrants), students returning from leave, transfer students, readmitted students, and others in the undergraduate program who wish to apply for the National Scholarship for Spring 2027. For currently enrolled students, applying in this first round is the rule.",
+ "dates": [
+  {
+   "what": "National Scholarship first-round application period",
+   "when": "Tuesday 24 November 2026, 09:00 to Thursday 7 January 2027, 18:00",
+   "original_ko": "2026. 11. 24.(화) 09:00 ~ 2027. 1. 7.(목) 18:00",
+   "verified": true
+  },
+  {
+   "what": "Period for submitting documents and for household members' consent to provide information",
+   "when": "Tuesday 24 November 2026, 09:00 to Thursday 14 January 2027, 18:00",
+   "original_ko": "2026. 11. 24.(화) 09:00 ~ 2027. 1. 14.(목) 18:00",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "Currently enrolled students are, as a rule, required to apply in the first round of the National Scholarship.",
+  "If a currently enrolled student does not apply within the application period, relief is available no more than twice during their enrollment."
+ ],
+ "steps": [
+  "Apply for the National Scholarship on the Korea Student Aid Foundation website (www.kosaf.go.kr) or mobile app between 24 November 2026, 09:00, and 7 January 2027, 18:00.",
+  "Submit the required documents and complete the household members' consent to provide information by 14 January 2027, 18:00.",
+  "For questions, contact the Korea Student Aid Foundation counseling center; the contact number is given in the original notice."
+ ],
+ "translation": "Spring 2027 National Scholarship (국가장학금) First-Round Application\n\nA. Application period: Tuesday 24 November 2026, 09:00 to Thursday 7 January 2027, 18:00\n\nB. Period for document submission and household members' consent to provide information (가구원 정보제공 동의): Tuesday 24 November 2026, 09:00 to Thursday 14 January 2027, 18:00\n\nC. Eligible applicants: Undergraduate (학사과정) currently enrolled students / incoming students (including prospective entrants, etc.) / students returning from leave / transfer students / readmitted students, etc.\n※ Currently enrolled students should, as a rule, apply in the first round of the National Scholarship. If the application period is not observed, relief is applied no more than twice during enrollment.\n\nD. How to apply: Applications may be submitted on the Korea Student Aid Foundation website (www.kosaf.go.kr) or its mobile app.\n\nE. Inquiries: Korea Student Aid Foundation counseling center (the contact number is given in the original notice).",
+ "id": 31590,
+ "text_hash": "5369da90d1d1c8d6",
+ "images": 0,
+ "attachments": [],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-23",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}
