@@ -1,0 +1,38 @@
+{
+ "title_en": "Active-Duty Enlistment Recruitment Schedule for All Armed Forces (December 2026)",
+ "summary": "The Military Manpower Administration has issued the recruitment schedule for active-duty enlisted personnel in each branch of the armed forces, with applications in December 2026 and enlistment planned for March 2027. Persons liable for military service who wish to apply for a military specialty related to their major, qualifications, licences or experience should consult the attached schedule. This notice is for information only and does not state that any action is mandatory.",
+ "applies_to": "Persons liable for military service (병역의무자) who wish to apply for a military specialty related to their major, qualifications, licences or experience. Application is voluntary; the notice is for information only.",
+ "dates": [
+  {
+   "what": "Application period for active-duty enlisted recruitment in each branch of the armed forces (exact dates are in the attachment, which was not read)",
+   "when": "December 2026",
+   "original_ko": "2026년 12월",
+   "verified": true
+  },
+  {
+   "what": "Planned enlistment for those who apply in December 2026",
+   "when": "March 2027",
+   "original_ko": "2027년 3월",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "The detailed schedule for each branch is given only in the attached PDF, which was not read; check it for exact dates and requirements."
+ ],
+ "steps": [
+  "Read the attached file '26년 12월 각 군 현역병 모집계획(배부용).pdf on the original notice for the detailed recruitment schedule of each branch.",
+  "If you wish to apply, apply for a military specialty within the December 2026 recruitment, following the attached schedule."
+ ],
+ "translation": "Title: Notice of Active-Duty Enlisted Recruitment Schedule for Each Branch of the Armed Forces (December 2026)\n\nThe Military Manpower Administration operates an active-duty enlisted recruitment system that allows persons liable for military service to apply for military specialties related to their major, qualifications and licences, or experience, so that they may serve in the relevant field.\n\nPlease find attached the recruitment schedule for active-duty enlisted personnel in each branch of the armed forces, for those applying in December 2026 and scheduled to enlist in March 2027.\n\nAttachment (1 file): '26년 12월 각 군 현역병 모집계획(배부용).pdf (135 KB) [December 2026 Recruitment Plan for Active-Duty Enlisted Personnel of Each Branch (for distribution)]. The content of this attachment was not provided and was not read.",
+ "id": 21631,
+ "text_hash": "ed6e198396a1ad2e",
+ "images": 0,
+ "attachments": [
+  "'26년 12월 각 군 현역병 모집계획(배부용).pdf"
+ ],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-24",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

@@ -1,0 +1,44 @@
+{
+ "title_en": "Spring 2027 National Scholarship: First-Round Application",
+ "summary": "Undergraduate students, including enrolled, new (including prospective entrants), returning, transfer and re-admitted students, are asked to apply for the first round of the Spring 2027 National Scholarship. Applications must be made on the Korea Student Aid Foundation website (www.kosaf.go.kr) or mobile app between 24 November 2026, 09:00 and 7 January 2027, 18:00. Document submission and household member information consent must be completed by 14 January 2027, 18:00.",
+ "applies_to": "Undergraduate (bachelor's program) students: currently enrolled students, new students (including prospective entrants), returning students, transfer students, re-admitted students and others. Currently enrolled students are, as a rule, expected to apply in this first round.",
+ "dates": [
+  {
+   "what": "Application period for the Spring 2027 National Scholarship (first round)",
+   "when": "Tuesday 24 November 2026, 09:00 to Thursday 7 January 2027, 18:00",
+   "original_ko": "2026. 11. 24.(화) 09:00 ~ 2027. 1. 7.(목) 18:00",
+   "verified": true
+  },
+  {
+   "what": "Period for document submission and household member information consent",
+   "when": "Tuesday 24 November 2026, 09:00 to Thursday 14 January 2027, 18:00",
+   "original_ko": "2026. 11. 24.(화) 09:00 ~ 2027. 1. 14.(목) 18:00",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "Currently enrolled students are, as a rule, expected to apply in the first round.",
+  "If an enrolled student misses the application period, relief can be applied only twice during the whole period of enrollment.",
+  "Students who have exceeded the standard period of study are not screened for National Scholarship Type II.",
+  "Students who received an academic warning (academic probation) in the immediately preceding semester are not screened for National Scholarship Type II.",
+  "From Spring 2027, the student financial aid bracket system is scheduled to change from 10 brackets (brackets 1 to 10) to 5 brackets (brackets Ga to Ma)."
+ ],
+ "steps": [
+  "Review the attached promotional material (2027년 1학기 국가장학금 1차 신청 홍보물.zip); its contents were not read for this translation.",
+  "Apply on the Korea Student Aid Foundation website (www.kosaf.go.kr) or its mobile app between 24 November 2026, 09:00 and 7 January 2027, 18:00.",
+  "Complete document submission and household member information consent by 14 January 2027, 18:00.",
+  "For questions, contact the Korea Student Aid Foundation counseling center; the phone number is given in the original notice."
+ ],
+ "translation": "Spring 2027 National Scholarship: First-Round Application\n\nThe first-round application schedule for the National Scholarship for the first semester of the 2027 academic year (Spring 2027) is announced below. Students are asked to apply within the deadline.\n\nA. Application period: Tuesday 24 November 2026, 09:00 to Thursday 7 January 2027, 18:00\n\nB. Period for document submission and household member information consent: Tuesday 24 November 2026, 09:00 to Thursday 14 January 2027, 18:00\n\nC. Eligible applicants: undergraduate (bachelor's program) currently enrolled students / new students (including prospective entrants) / returning students / transfer students / re-admitted students, etc.\n※ As a rule, currently enrolled students should apply in the first round of the National Scholarship. If the application period is not observed, relief is applied only twice during the period of enrollment.\n\nD. How to apply: applications can be made on the Korea Student Aid Foundation website (www.kosaf.go.kr) or its mobile app.\n\nE. Inquiries: Korea Student Aid Foundation counseling center (the phone number is given in the original notice).\n\nF. Notes\n- Students who have exceeded the standard period of study and students who received an academic warning in the immediately preceding semester are not subject to screening for National Scholarship Type II.\n- From the first semester of 2027 (Spring 2027), the student financial aid bracket calculation system is scheduled to be reorganised from the existing '10 brackets (brackets 1 to 10)' to '5 brackets (brackets Ga to Ma)'.\n\nAttachment (1 file): 2027년 1학기 국가장학금 1차 신청 홍보물.zip (Spring 2027 National Scholarship first-round application promotional material, 7 MB). The contents of this attachment were not read.",
+ "id": 24090,
+ "text_hash": "a634dd1a6e4a665b",
+ "images": 0,
+ "attachments": [
+  "2027년 1학기 국가장학금 1차 신청 홍보물.zip"
+ ],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-24",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

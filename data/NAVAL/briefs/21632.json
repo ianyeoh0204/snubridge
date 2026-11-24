@@ -1,0 +1,42 @@
+{
+ "title_en": "Spring 2027 National Scholarship: First-Round Application",
+ "summary": "Undergraduate students, including current, new (incoming), returning, transfer and re-admitted students, should apply for the Spring 2027 National Scholarship (first round) on the Korea Student Aid Foundation website (www.kosaf.go.kr) or mobile app between 09:00 on 24 November 2026 and 18:00 on 7 January 2027. Supporting documents and household members' consent to provide information must be completed by 18:00 on 14 January 2027. The resulting income bracket is used to select recipients of other on-campus and external scholarships, so students should apply on time.",
+ "applies_to": "Undergraduate (bachelor's) program students: current students, new students (including prospective entrants), returning students, transfer students, re-admitted students and similar. Current students are, in principle, required to apply in the first round. Students who exceed the standard period of study or who received an academic warning in the previous semester will not be reviewed for National Scholarship Type II.",
+ "dates": [
+  {
+   "what": "National Scholarship first-round application period",
+   "when": "Tuesday 24 November 2026, 09:00 to Thursday 7 January 2027, 18:00",
+   "original_ko": "2026. 11. 24.(화) 09:00 ~ 2027. 1. 7.(목) 18:00",
+   "verified": true
+  },
+  {
+   "what": "Period for submitting documents and for household members' consent to provide information",
+   "when": "Tuesday 24 November 2026, 09:00 to Thursday 14 January 2027, 18:00",
+   "original_ko": "2026. 11. 24.(화) 09:00 ~ 2027. 1. 14.(목) 18:00",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "The National Scholarship income (support) bracket is used to select recipients of on-campus and external scholarships (such as the Seonhan Talent, Overseas Study, Customized and Work-Study Scholarships), so students who do not apply on time may affect their eligibility for these.",
+  "Current students must, in principle, apply in the first round.",
+  "Current students who miss the application period may receive relief only twice during their entire enrolment.",
+  "Students who exceed the standard period of study (수업연한초과자) are not eligible for National Scholarship Type II review.",
+  "Students who received an academic warning (학사경고) in the previous semester are not eligible for National Scholarship Type II review.",
+  "From Spring 2027, the income bracket system is scheduled to change from 10 brackets (1–10) to 5 brackets (Ga–Ma, 가~마)."
+ ],
+ "steps": [
+  "Apply for the National Scholarship on the Korea Student Aid Foundation website (www.kosaf.go.kr) or mobile app between 09:00 on 24 November 2026 and 18:00 on 7 January 2027.",
+  "Submit any required documents and ensure that your household members complete the consent to provide information by 18:00 on 14 January 2027.",
+  "For questions, contact the Korea Student Aid Foundation counselling centre; the contact number is in the original notice."
+ ],
+ "translation": "Spring 2027 National Scholarship First-Round Application Guide\n\nThe schedule for the first-round application for the Spring 2027 (2027학년도 1학기) National Scholarship (국가장학금) is announced below.\nIn addition, because the National Scholarship income support bracket (학자금 지원구간) is used to select recipients of on-campus and external scholarships (such as the Seonhan Talent, Overseas Study, Customized and Work-Study Scholarships), students are asked to apply within the deadline.\n\nA. Application period: Tuesday 24 November 2026, 09:00 to Thursday 7 January 2027, 18:00\n\nB. Period for document submission and household members' consent to provide information: Tuesday 24 November 2026, 09:00 to Thursday 14 January 2027, 18:00\n\nC. Eligible applicants: undergraduate (bachelor's) program current students / new students (including prospective entrants) / returning students / transfer students / re-admitted students, etc.\n※ Current students must, in principle, apply in the first round. If the application period is missed, relief is applied only twice during enrolment.\n\nD. How to apply: apply on the Korea Student Aid Foundation website (www.kosaf.go.kr) or its mobile app.\n\nE. Enquiries: Korea Student Aid Foundation counselling centre (the contact number is given in the original notice).\n\nF. Notes\n- Students who exceed the standard period of study and students who received an academic warning in the previous semester are not eligible for National Scholarship Type II review.\n- From Spring 2027 (27-1학기), the income support bracket system is scheduled to be reorganised from the existing '10 brackets (brackets 1–10)' to '5 brackets (brackets Ga–Ma, 가~마)'.",
+ "id": 21632,
+ "text_hash": "e971444e4ccd305e",
+ "images": 1,
+ "attachments": [],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-24",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

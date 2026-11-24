@@ -1,0 +1,39 @@
+{
+ "title_en": "Call for Applications: 2027 Entrepreneurial Engineering Technology Innovation Talent Program",
+ "summary": "The Seoul National University College of Engineering Innovation and Startup Center is selecting the 2027 Entrepreneurial Engineering Technology Innovation Talents. Undergraduate students of the College of Engineering who will have at least five registered semesters as of Spring 2027 (third year and above) may apply voluntarily. To apply, submit the application form and a startup idea proposal through the Google Form (https://forms.gle/AxXTppvhsYXHnHwK7) by 23:59 on Monday, 30 November 2026.",
+ "applies_to": "Optional, for interested students. Open only to undergraduate students currently enrolled in the College of Engineering who will have five or more registered semesters (third year and above) as of Spring 2027.",
+ "dates": [
+  {
+   "what": "Application period: submissions accepted from the posting date of the call until this deadline",
+   "when": "From the posting date of the call until 23:59 on Monday, 30 November 2026",
+   "original_ko": "공고일 ~ 2026. 11. 30.(월) 23:59 제출분까지",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "Only undergraduate students enrolled in the College of Engineering may apply.",
+  "Applicants must have five or more registered semesters (third year and above) as of Spring 2027.",
+  "Only applications submitted by 23:59 on 30 November 2026 are accepted.",
+  "Both an application form and a startup idea proposal must be submitted.",
+  "According to the attachment's file name, you must write your name on the startup idea proposal when submitting it."
+ ],
+ "steps": [
+  "Download and read the attached call for applications (2027년도 창업가형 공학기술 혁신인재 선발 공고문.pdf). Its content was not included in the text of this notice and has not been read.",
+  "Download the startup idea proposal form (창업 아이디어 제안서 제출양식(제출시 성명기재).pptx), complete it, and write your name on it.",
+  "Submit the application form and your startup idea proposal through the Google Form at https://forms.gle/AxXTppvhsYXHnHwK7 by 23:59 on 30 November 2026.",
+  "For questions, contact the Seoul National University College of Engineering Innovation and Startup Center. Its contact details are in the original Korean notice."
+ ],
+ "translation": "Title: Call for Applications: 2027 Entrepreneurial Engineering Technology Innovation Talent Program\n\nThe Seoul National University College of Engineering Innovation and Startup Center (서울공대혁신창업센터) is selecting the \"2027 Entrepreneurial Engineering Technology Innovation Talents\" (2027년도 창업가형 공학기술 혁신인재) as described below. Interested students are encouraged to apply.\n\nA. Notice: Call for the selection of the 2027 Entrepreneurial Engineering Technology Innovation Talents\n\nB. Eligibility: Undergraduate students currently enrolled in the College of Engineering who will have five or more registered semesters (third year and above) as of Spring 2027.\n\nC. How to apply: Submit the application form and a startup idea proposal through the Google Form.\n- Application link: https://forms.gle/AxXTppvhsYXHnHwK7\n\nD. Application period: From the date of the call until submissions made by 23:59 on Monday, 30 November 2026.\n\nE. Support provided: Living-expense scholarship and startup activity funding, dedicated space for startup teams, opportunities to take part in summer/winter training programs, mentoring by an alumni entrepreneur mentor group, the possibility of earning a curriculum certification, and more.\n\nF. Inquiries: Seoul National University College of Engineering Innovation and Startup Center (the contact details are in the original Korean notice).\n\nAttachments:\n1. Call for applications, 1 copy.\n2. Startup idea proposal submission form, 1 copy.\n\nAttached files (2):\n1. 2027년도 창업가형 공학기술 혁신인재 선발 공고문.pdf (87 KB) (2027 Entrepreneurial Engineering Technology Innovation Talent selection call)\n2. 창업 아이디어 제안서 제출양식(제출시 성명기재).pptx (101 KB) (Startup idea proposal submission form; write your name when submitting)\n\nNote: The contents of the attached files were not included in the text of this notice and have not been read.",
+ "id": 21633,
+ "text_hash": "0761e8b376f1b8d0",
+ "images": 1,
+ "attachments": [
+  "1.2027년도 창업가형 공학기술 혁신인재 선발 공고문.pdf",
+  "2.창업 아이디어 제안서 제출양식(제출시 성명기재).pptx"
+ ],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-24",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

@@ -1,0 +1,31 @@
+{
+ "title_en": "Venture Park Vol. 10: Beyond AI – Talks and Networking for Startups (26 November)",
+ "summary": "SVC Seoul is holding Venture Park Vol. 10, \"Beyond AI: The Moment Technology Changes Reality\", a free lecture and networking event, on Thursday, 26 November 2026, from 17:00 to 20:00. The event takes place at the B1 Open Stage, SVC Seoul (136 Yanghwa-ro, Mapo-gu, Seoul). Those interested should apply at luma.com/venturepark; attendance is optional.",
+ "applies_to": "Optional event. The stated audience is founders, staff and investors of startups in the AI field, and people involved in the startup ecosystem. The notice does not state any other eligibility limit.",
+ "dates": [
+  {
+   "what": "Venture Park Vol. 10 lecture and networking event",
+   "when": "Thursday, 26 November 2026, 17:00–20:00",
+   "original_ko": "2026년 11월 26일 (목) 17:00–20:00",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "Participation is free of charge, and a light meal is provided.",
+  "The notice does not state an application deadline or a participant limit."
+ ],
+ "steps": [
+  "Apply online at luma.com/venturepark.",
+  "Attend on Thursday, 26 November 2026, 17:00–20:00, at the B1 Open Stage, SVC Seoul (136 Yanghwa-ro, Mapo-gu, Seoul)."
+ ],
+ "translation": "[Event Notice] Venture Park Vol. 10, Beyond AI: The Moment Technology Changes Reality – Lectures and Networking for Startups (Thursday, 26 November)\n\nWhere will the next change in AI begin?\n\nIn 2026, artificial intelligence advanced rapidly and brought new changes across industry and business. As generative AI and AI agents change the way we work and our business models, AI is now moving beyond digital space and expanding into the real world by combining with robots.\n\nWhere will AI technology head next? And what new opportunities will these changes bring to our lives, to industry and to the future of startups?\n\nTwo perspectives will be presented: that of the CEO of Hurotics, who is also a professor at Chung-Ang University, who researches wearable robot technology that understands and assists human movement and who has developed research results into real products and business by founding Hurotics; and that of a professor at Kyung Hee University who researches the industrial application of AI technology and AI-based business models and has analysed the changes AI will bring to the economy and industry. Through these two perspectives, the event will look back on the major changes in the AI industry in 2026, look ahead to technology and industry in 2027, and explore the future that physical AI will bring to human life and industrial sites.\n\nBeyond technological progress, toward real-world change: come and experience the moment new industry and business opportunities are created.\n\nVenture Park, SVC Seoul's startup networking event, invites you to its final session of 2026, \"BEYOND AI: The Moment Technology Changes Reality\".\n\n[Event Overview]\n\n- Date and time: Thursday, 26 November 2026, 17:00–20:00\n- Venue: Open Stage, B1, SVC Seoul (136 Yanghwa-ro, Mapo-gu, Seoul)\n- Audience: Founders, staff and investors of startups in the AI field, and people involved in the startup ecosystem\n- Participation fee: Free; a light meal will be provided\n- Application: luma.com/venturepark\n\nSee you at Venture Park!",
+ "id": 24091,
+ "text_hash": "c4ca90453b23a7bb",
+ "images": 1,
+ "attachments": [],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-24",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}
