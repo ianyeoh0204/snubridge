@@ -1,0 +1,28 @@
+{
+ "title_en": "Bluepoint 2026 Fusion Builders Seminar: Promotional Notice",
+ "summary": "The department is sharing a promotional notice from Bluepoint for the 2026 Fusion Builders seminar on fusion energy. The seminar takes place on Wednesday, 2 December 2026, from 13:00 to 18:00 in Gaia Hall on the 4th floor of Hotel Intercity Daejeon, and participants apply through the online form linked in the notice. The notice does not state who may attend, whether attendance is required, or a deadline for applying.",
+ "applies_to": "",
+ "dates": [
+  {
+   "what": "Fusion Builders seminar",
+   "when": "Wednesday, 2 December 2026, 13:00–18:00",
+   "original_ko": "2026년 12월 2일(수) 13:00~18:00",
+   "verified": true
+  }
+ ],
+ "conditions": [],
+ "steps": [
+  "Apply to participate using the online form: https://forms.gle/9hc36qLubLPhL2Y4A",
+  "Attend the seminar on Wednesday, 2 December 2026, from 13:00 to 18:00, in Gaia Hall (가이아홀), 4th floor, Hotel Intercity Daejeon (호텔 인터시티 대전)."
+ ],
+ "translation": "[Bluepoint] Promotion of the 2026 Fusion Builders Seminar\n\nDate and time: Wednesday, 2 December 2026, 13:00–18:00\n\nVenue: Gaia Hall (가이아홀), 4th floor, Hotel Intercity Daejeon (호텔 인터시티 대전)\n\nApplication to participate: https://forms.gle/9hc36qLubLPhL2Y4A",
+ "id": 24093,
+ "text_hash": "9754aa3db536229d",
+ "images": 1,
+ "attachments": [],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-25",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

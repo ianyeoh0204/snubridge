@@ -1,0 +1,47 @@
+{
+ "title_en": "Spring 2027 Overseas Study Scholarship Selection Plan",
+ "summary": "Undergraduates selected for a Spring 2027 exchange program who meet the student aid tier and grade requirements may apply for the Spring 2027 Overseas Study Scholarship. Applications must be submitted online through mySNU between 1 December 2026 and 18:00 on 8 December 2026. Only students whose overseas study information has been entered and whose overseas study plan has been approved by 30 November 2026 can apply.",
+ "applies_to": "Optional application for undergraduate students who meet all of the following: (1) student aid tier (학자금 지원구간) of tier 8 or below for Fall 2026, as calculated by the Korea Student Aid Foundation; (2) a grade point average of 2.4 or above in the previous semester; and (3) selected for a Spring 2027 exchange student program run by the Office of International Affairs (국제처) or by the university itself. Recipients must submit a transcript and a post-award report.",
+ "dates": [
+  {
+   "what": "Deadline for selected exchange students' overseas study information to be entered and their overseas study plan approval to be completed (required before applying)",
+   "when": "By Monday, 30 November 2026",
+   "original_ko": "~2026. 11. 30.(월)",
+   "verified": true
+  },
+  {
+   "what": "Online application period for the scholarship on mySNU",
+   "when": "Tuesday, 1 December 2026 to Tuesday, 8 December 2026, 18:00",
+   "original_ko": "2026. 12. 1.(화) ~ 2026. 12. 8.(화) 18:00",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "Approximately 30 students will be selected; this number may change depending on the budget.",
+  "Applicants must be undergraduates with a Fall 2026 student aid tier of 8 or below.",
+  "Any student aid tier calculated by the Korea Student Aid Foundation is accepted, including tiers for the National Scholarship, student loans and the National Work Scholarship.",
+  "Applicants must have a grade point average of 2.4 or above in the previous semester.",
+  "Applicants must be selected for a Spring 2027 exchange student program of the Office of International Affairs or of the university itself.",
+  "Only students whose overseas study information has been entered and whose overseas study plan has been approved may apply on mySNU.",
+  "Applications will be approved in bulk by the Scholarship and Welfare Division (장학복지과).",
+  "Scholarship recipients must submit a transcript and a post-award report (성적표 및 수혜 후기 보고서)."
+ ],
+ "steps": [
+  "Read the attached guide, 2027학년도 1학기 해외수학장학생 신청안내.hwp (its content was not included in the notice text and has not been read).",
+  "Make sure your overseas study information (국외수학 정보) is entered and your overseas study plan (해외수학계획) approval is completed by 30 November 2026.",
+  "Apply online through mySNU (마이스누) between 1 December 2026 and 18:00 on 8 December 2026.",
+  "If selected, submit your transcript and post-award report (성적표 및 수혜 후기 보고서) as required."
+ ],
+ "translation": "Spring 2027 Overseas Study Scholarship Selection Plan\n\nWe announce the selection plan for the Spring 2027 Overseas Study Scholarship (해외수학장학생) as follows. Eligible students are asked to apply.\n\nA. Number of recipients: approximately 30 (may change depending on the budget situation)\n\nB. Eligibility: Undergraduate students whose student aid tier* for Fall 2026 is tier 8 or below (with a grade point average of 2.4 or above in the previous semester), who have been selected for a Spring 2027 exchange student program of the Office of International Affairs (국제처) or of the university itself.\n* All student aid tiers calculated by the Korea Student Aid Foundation, such as those for the National Scholarship, student loans and the National Work Scholarship, are accepted.\n\nC. Application period: Tuesday, 1 December 2026 to Tuesday, 8 December 2026, 18:00\n\nD. How to apply: Apply online through mySNU (마이스누). (The Scholarship and Welfare Division (장학복지과) will process approvals in bulk.)\n\nE. Administrative matters\n1) Entry of overseas study information (국외수학 정보) and completion of overseas study plan (해외수학계획) approval for selected exchange students: by Monday, 30 November 2026\n※ Only students whose overseas study information has been entered and whose overseas study plan has been approved can apply on mySNU.\n2) Scholarship recipients must comply with the obligation to submit a \"transcript and post-award report\" (성적표 및 수혜 후기 보고서).\n\nAttachment (1 file): 2027학년도 1학기 해외수학장학생 신청안내.hwp (71 KB) — the content of this attachment was not included in the notice text and has not been read.",
+ "id": 24092,
+ "text_hash": "31229d28b296367a",
+ "images": 0,
+ "attachments": [
+  "2027학년도 1학기 해외수학장학생 신청안내.hwp"
+ ],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-25",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

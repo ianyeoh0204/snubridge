@@ -1,0 +1,40 @@
+{
+ "title_en": "2027 Gwanak Residence Hall Move-In Application Schedule for Enrolled Undergraduates",
+ "summary": "Enrolled undergraduate students who wish to live in Gwanak Residence Hall in the 2027 academic year must apply online through the Seoul National University portal, mySNU. Applications are accepted from 23 November 2026 (Monday) 10:00 to 27 November 2026 (Friday) 18:00, and the list of selected residents will be announced on 14 December 2026 (Monday) at 11:00. Detailed application and selection rules are in the attached guide and in the move-in/move-out notices on the Gwanak Residence Hall website.",
+ "applies_to": "Enrolled undergraduate students (학부재학생) who wish to apply for residence in Gwanak Residence Hall for the 2027 academic year. Applying is optional; the notice does not state any further eligibility limits, which are given in the attached guide (not read).",
+ "dates": [
+  {
+   "what": "Move-in application period for enrolled undergraduates (opens 10:00, closes 18:00)",
+   "when": "23 November 2026 (Monday) 10:00 to 27 November 2026 (Friday) 18:00",
+   "original_ko": "2026. 11. 23.(월) 10:00 ~ 2026. 11. 27.(금) 18:00",
+   "verified": true
+  },
+  {
+   "what": "Announcement of students selected for move-in",
+   "when": "14 December 2026 (Monday) 11:00",
+   "original_ko": "2026. 12. 14.(월) 11:00",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "Applications are made online through mySNU only, within the stated application period.",
+  "Detailed application and selection conditions are given in the attached guide and on the Gwanak Residence Hall website; the attachment was not read for this translation."
+ ],
+ "steps": [
+  "Read the attached guide '2027학년도 학부재학생 입주신청 및 선발 안내문(본문).pdf' (not read for this translation) and the move-in/move-out notices (입주/퇴거 공지) on the Gwanak Residence Hall website (http://snudorm.snu.ac.kr).",
+  "Apply online through the Seoul National University portal mySNU (마이스누) between 23 November 2026 at 10:00 and 27 November 2026 at 18:00.",
+  "Check the announcement of selected residents on 14 December 2026 at 11:00."
+ ],
+ "translation": "2027 Gwanak Residence Hall Move-In Application Schedule for Enrolled Undergraduate Students\n\nThe move-in application schedule for enrolled undergraduate students for Gwanak Residence Hall (관악학생생활관) for the 2027 academic year is as follows.\n\nA. Move-in application period (enrolled undergraduate students): 23 November 2026 (Monday) 10:00 to 27 November 2026 (Friday) 18:00\n\nB. How to apply: online application through the Seoul National University portal, mySNU (마이스누)\n\nC. Announcement of selected residents: 14 December 2026 (Monday) 11:00\n\n※ For details on applications and selection, refer to the move-in/move-out notices (입주/퇴거 공지) on the Gwanak Residence Hall website (http://snudorm.snu.ac.kr).\n\nAttachment: one copy of the 2027 move-in application and selection guide for enrolled undergraduate students.\n\nAttached file (1): 2027학년도 학부재학생 입주신청 및 선발 안내문(본문).pdf (58 KB) [The content of this attachment was not provided and has not been read.]",
+ "id": 21637,
+ "text_hash": "27869f49348cf7dc",
+ "images": 0,
+ "attachments": [
+  "2027학년도 학부재학생 입주신청 및 선발 안내문(본문).pdf"
+ ],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-25",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

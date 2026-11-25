@@ -1,0 +1,31 @@
+{
+ "title_en": "Winter 2027 IBS Trapped-Ion Quantum Science Research Internship: Call for Applicants",
+ "summary": "The department is promoting a call for applicants for the Winter 2027 research internship at the Institute for Basic Science (IBS) trapped-ion quantum science research group. The notice gives only its title, with no eligibility, deadline, location or application method. Interested students should consult the original notice or the department office for details.",
+ "applies_to": "Not stated. The notice is a promotional announcement, and only its title was provided; it does not state who is eligible or whether participation is required.",
+ "dates": [
+  {
+   "what": "Period of the research internship (exact dates not stated)",
+   "when": "Winter 2027",
+   "original_ko": "2027년 동계",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "The notice gives no eligibility requirements, application deadline or application method; only the title was available.",
+  "Any attachment or image with the original notice was not provided and was not read."
+ ],
+ "steps": [
+  "Read the original notice, including any attachment, for eligibility, deadline and application method; the contact details are in the original notice.",
+  "If the details are unclear, contact the department office."
+ ],
+ "translation": "Title: [Promotion] Call for Applicants: Winter 2027 Research Internship at the Institute for Basic Science (IBS) Trapped-Ion Quantum Science Research Group\n\nPosted: 2026-11-25\n\n(Only the title of this notice was provided. No body text was available, and any attachment or image that may accompany the original notice was not read.)",
+ "id": 21638,
+ "text_hash": "e3b0c44298fc1c14",
+ "images": 1,
+ "attachments": [],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-25",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}
