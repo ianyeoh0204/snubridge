@@ -1,0 +1,57 @@
+{
+ "title_en": "KONICOF: Call for Participants in the 2027 Overseas Nuclear Facility Study Tour",
+ "summary": "The Korea Nuclear International Cooperation Foundation (KONICOF) invites nuclear and related-major students of Korean nationality (undergraduates in the third year or above, or master's and doctoral students, including those on leave of absence) to apply for a study tour of nuclear facilities in Fukushima and Ibaraki, Japan, from 15 to 19 February 2027. International students enrolled in Korea may not participate. Interested eligible students must email the application form, a certificate of enrollment and an academic transcript to the KONICOF contact (address in the original notice) by 13:00 on Friday, 4 December 2026.",
+ "applies_to": "Voluntary; for interested students only. Open only to holders of Korean (Republic of Korea) nationality; international students enrolled in Korea may not participate. Applicants must be nuclear majors (related majors included) who are undergraduates in the third year or above, or enrolled master's or doctoral graduate students; students on leave of absence are included. Graduate students not majoring in nuclear fields must also submit evidence of completing nuclear-related courses or conducting related research.",
+ "dates": [
+  {
+   "what": "Application deadline (email submission)",
+   "when": "Friday, 4 December 2026, 13:00",
+   "original_ko": "2026년  12월 4일(금 ) 13:00",
+   "verified": true
+  },
+  {
+   "what": "Pre-departure training, required for final selectees",
+   "when": "January 2027 (exact date not stated)",
+   "original_ko": "2027. 1월 중",
+   "verified": true
+  },
+  {
+   "what": "Overseas study tour in Japan",
+   "when": "Monday, 15 February 2027 to Friday, 19 February 2027",
+   "original_ko": "2027년 2월 15일(월)~19일(금)",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "Only holders of Korean nationality may participate; international students enrolled in Korea are not eligible.",
+  "Applicants must be nuclear or related majors in the third undergraduate year or above, or master's or doctoral students; students on leave of absence may apply.",
+  "Graduate students not majoring in nuclear fields must submit evidence of completing nuclear-related courses or conducting related research.",
+  "Required documents are one application form, one certificate of enrollment and one academic transcript; a recommendation letter (from the department head or a professor) and other supporting evidence are optional.",
+  "Final selectees must attend pre-departure training in January 2027.",
+  "Participation is free and airfare, accommodation and meals are provided, but participants pay their own domestic travel costs, including travel to the pre-departure training and to and from Incheon Airport.",
+  "Applications are submitted by email only."
+ ],
+ "steps": [
+  "Read the KONICOF recruitment announcement (link in the original notice) and the attached files; the attachments were not read for this translation.",
+  "Download the application form (including the personal information consent form) from the KONICOF website (www.konicof.or.kr) or the attached file.",
+  "Prepare the required documents: one completed application form, one certificate of enrollment and one academic transcript; non-nuclear-major graduate students must add evidence of nuclear-related coursework or research; optionally add a recommendation letter from the department head or a professor and other supporting evidence.",
+  "Email all documents to the KONICOF contact (the email address is in the original notice) by 13:00 on Friday, 4 December 2026.",
+  "Check the notices section of the KONICOF website (www.konicof.or.kr) for the announcement of successful applicants; separate notification will also be given.",
+  "If selected, attend the pre-departure training in January 2027."
+ ],
+ "translation": "[Korea Nuclear International Cooperation Foundation] Call for Participants in the 2027 Overseas Nuclear Facility Study Tour\n\nThe Korea Nuclear International Cooperation Foundation (KONICOF) will conduct the 2027 Overseas Nuclear Facility Study Tour as described below. Interested students are encouraged to apply.\n\n1) Purpose: To improve understanding of the nuclear field and provide an opportunity for career exploration through site visits to nuclear research institutions and industry and question-and-answer sessions with staff of those institutions.\n\n2) Tour dates: Monday, 15 February 2027 to Friday, 19 February 2027.\n\n3) Location and institutions to be visited*: Fukushima and Ibaraki Prefecture, Japan.\n* JOYO, HTTR, J-PARC (proton accelerator), Tokyo Electric Power Company (TEPCO) Decommissioning Archive Center, Nippon NFD (nuclear fuel fabrication company), JAEA Naraha Center for Remote Control Technology Development, and others.\n\n4) Eligibility: Nuclear majors (including related majors) who are undergraduates in the third year or above, or enrolled graduate students (master's or doctoral) (including students on leave of absence).\n※ This program is for holders of Korean nationality only; foreign students enrolled in Korea may not participate.\n※ Graduate students not majoring in nuclear fields must submit evidence of completing nuclear-related courses or conducting related research.\n\n5) Support: Participation is free (※ airfare, accommodation and meals are provided).\n※ However, participants must pay their own domestic transportation costs, including attendance at the pre-departure training (final selectees; during January 2027) and round trips to Incheon Airport.\n\n6) How to apply: Submit by email (address in the original notice).\n- (Submission method) Email submission (address in the original notice)\n- (Documents) Required: one application form, one certificate of enrollment, one academic transcript. Optional: recommendation letter (from the department head or a professor), other supporting evidence.\n※ The application form (including the personal information consent form) can be downloaded from the KONICOF website.\n- (Deadline) Friday, 4 December 2026, 13:00\n- (Inquiries) Phone and email are given in the original notice.\n※ Successful applicants will be announced in the notices section of the Foundation's website (www.konicof.or.kr), and separate notification will be given.\n- (Link to the recruitment announcement) https://www.konicof.or.kr/neti/html/sub05/0501.html?mode=V&no=4e42e80e5b52ea2848221048ad1cd9da\n\n7) Contact: The KONICOF staff member in charge; email, office phone and mobile numbers are given in the original notice.\n\nAttachments (4) [the contents of these attachments were not read]:\n- 2027 Overseas Nuclear Facility Study Tour Participant Recruitment Guide (PDF, 209 KB)\n- [Overseas Facility Tour] Announcement (HWP, 3 MB)\n- [Overseas Facility Tour] Application Form (HWP, 45 KB)\n- Overseas Facility Tour Poster (JPG, 5 MB)",
+ "id": 24094,
+ "text_hash": "08b8941468f0cbf3",
+ "images": 0,
+ "attachments": [
+  "2027년 해외 원자력 시설견학 참가자 모집 안내.pdf",
+  "[해외 시설견학] 공고문.hwp",
+  "[해외 시설견학] 지원서.hwp",
+  "해외 시설견학 포스터.jpg"
+ ],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-26",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

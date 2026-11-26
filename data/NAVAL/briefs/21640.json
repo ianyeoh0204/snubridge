@@ -1,0 +1,26 @@
+{
+ "title_en": "DNV Korea: Internships for Master's Students and DX Expert Positions for Doctoral Students",
+ "summary": "DNV Korea is recruiting master's students for internships and doctoral students for full-time DX Expert positions. Interested students are encouraged to apply. Application details, including deadlines and procedures, are given only in the two attached PDF files, which were not read for this translation.",
+ "applies_to": "Optional (not mandatory). Internship: master's students. Full-time DX Expert position: doctoral students. Any further eligibility limits are stated only in the attachments, which were not read.",
+ "dates": [],
+ "conditions": [
+  "Eligibility requirements, deadlines and application procedures are given only in the attached recruitment notices, which were not read for this translation."
+ ],
+ "steps": [
+  "Read the attached recruitment notice that applies to you: the master's student internship notice (2027 DNV 석사과정생 인턴 모집공고.pdf) or the doctoral student DX Expert notice (2027 DNV 박사과정생 DX Expert 정규직 모집공고.pdf).",
+  "Apply according to the instructions in that attachment."
+ ],
+ "translation": "DNV Korea Internship Recruitment for Master's Students and Full-Time DX Expert Recruitment for Doctoral Students\n\nWe announce DNV Korea's internship recruitment for master's students and full-time DX Expert recruitment for doctoral students, as described in the attachments. Interested students are encouraged to apply.\n\nAttachments (2):\n- 2027 DNV 박사과정생 DX Expert 정규직 모집공고.pdf (2027 DNV Full-Time DX Expert Recruitment Notice for Doctoral Students) (318 KB)\n- 2027 DNV 석사과정생 인턴 모집공고.pdf (2027 DNV Internship Recruitment Notice for Master's Students) (275 KB)\n\n[Note: The contents of the attached files were not read for this translation.]",
+ "id": 21640,
+ "text_hash": "59416999b5f0c6b3",
+ "images": 0,
+ "attachments": [
+  "2027 DNV 박사과정생 DX Expert 정규직 모집공고.pdf",
+  "2027 DNV 석사과정생 인턴 모집공고.pdf"
+ ],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-26",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

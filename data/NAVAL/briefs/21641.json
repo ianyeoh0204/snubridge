@@ -1,0 +1,61 @@
+{
+ "title_en": "Notice to Admitted Applicants: 2027 Graduate Early-Round Admission",
+ "summary": "Applicants admitted to the Department of Naval Architecture and Ocean Engineering graduate programs in the 2027 early-round admission (전기모집) must pay tuition at a designated bank between 1 February 2027 at 10:00 and 5 February 2027 at 16:00. They must also submit original degree certificates to the department office (Building 34, Room 417) by 25 February (the notice prints the year as 2026; please confirm the year with the department office). Admission is cancelled if either step is not completed in time, and late registration is not permitted under any circumstances.",
+ "applies_to": "All applicants admitted to the department's graduate programs in the 2027 early-round admission (2027학년도 대학원 전기모집). Tuition registration and document submission are mandatory. Applicants admitted to the master's or integrated master's-doctoral program must submit a bachelor's degree certificate. Applicants admitted to the doctoral program must submit a master's degree certificate.",
+ "dates": [
+  {
+   "what": "Tuition registration (payment) period for all admitted applicants",
+   "when": "Monday 1 February 2027, 10:00, to Friday 5 February 2027, 16:00",
+   "original_ko": "2027. 2. 1.(월) 10:00 ~ 2. 5.(금) 16:00까지",
+   "verified": true
+  },
+  {
+   "what": "Tuition bill becomes printable from the admission results screen (during the registration period only)",
+   "when": "During the registration period (1–5 February 2027)",
+   "original_ko": "등록기간 중",
+   "verified": true
+  },
+  {
+   "what": "Deadline to submit original degree certificates to the department office. The notice prints the year as 2026, which is before the notice was posted; please confirm the year with the department office.",
+   "when": "By Thursday 25 February (year printed as 2026)",
+   "original_ko": "~2026. 2.25.(목)",
+   "verified": true
+  },
+  {
+   "what": "Alternative document deadline for applicants whose degree conferment ceremony is later than the submission deadline",
+   "when": "By the day after the applicant's degree conferment ceremony",
+   "original_ko": "학위수여식이 제출기한보다 늦는경우 학위수여식 다음날까지 제출",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "Admission is cancelled if tuition payment and document submission are not both completed within the designated periods.",
+  "Additional (late) registration is absolutely not permitted.",
+  "Only original documents are accepted.",
+  "Master's and integrated master's-doctoral program admits must submit one bachelor's degree certificate.",
+  "Doctoral program admits must submit one master's degree certificate.",
+  "If your degree conferment ceremony is later than the submission deadline, you must submit your documents by the day after the ceremony.",
+  "You must read the department's graduate regulations before course registration and course planning.",
+  "New graduate students must complete the \"Laboratory Safety and Environment Training\" and the \"Respect for Life (Suicide Prevention) Training\"; details will be announced later."
+ ],
+ "steps": [
+  "During the registration period, print your tuition bill from the admission results screen on the admission website (admission.snu.ac.kr > Graduate School [대학원] > General Graduate School [일반대학원] > Notice board [공지사항]). The bill states the amount to pay.",
+  "Pay the tuition between 1 February 2027 at 10:00 and 5 February 2027 at 16:00 at any branch of NongHyup, Shinhan Bank or Woori Bank in Korea, or by internet or smartphone banking.",
+  "Submit the original degree certificate (bachelor's for master's or integrated program admits; master's for doctoral admits) to the department office, Building 34, Room 417, by 25 February, or by the day after your degree ceremony if it is later than the deadline.",
+  "Read the department's graduate graduation regulations (applicable from students admitted in September 2026) on the department website under Graduate School > Graduate Regulations before registering for courses.",
+  "Read the attached file for information on scholarships, dormitories, parking permits, safety and environment training, and registration of students with disabilities. The attachment was not read for this translation.",
+  "Watch for later announcements about the Laboratory Safety and Environment Training and the Respect for Life (Suicide Prevention) Training, and complete both."
+ ],
+ "translation": "Notice to Admitted Applicants: 2027 Graduate School Early-Round Admission (2027학년도 대학원 전기모집)\n\nIf you do not complete tuition payment and document submission within the designated periods, your admission will be cancelled. (★ Additional registration is absolutely not permitted.)\n\nA. Registration of admitted applicants\n1) Period: Monday 1 February 2027, 10:00, to Friday 5 February 2027, 16:00\n2) Place: Any branch of NongHyup, Shinhan Bank or Woori Bank nationwide (internet and smartphone banking are available)\n3) Amount: As stated on the tuition bill\n4) Tuition bill: May be printed from the admission results screen during the registration period\n⇒ Admission website (admission.snu.ac.kr) – Graduate School [대학원] – General Graduate School [일반대학원] – Notice board [공지사항]\n\nB. Document submission\n1) Deadline: By Thursday 25 February 2026 [year as printed in the notice; please confirm with the department office] *If your degree conferment ceremony is later than the submission deadline, submit by the day after the ceremony.\n2) Place: Department of Naval Architecture and Ocean Engineering office (Building 34, Room 417)\n3) Documents (original documents must be submitted)\n· One bachelor's degree certificate (admits to the master's program and the integrated master's-doctoral program)\n· One master's degree certificate (admits to the doctoral program)\n\nC. For course registration and planning your graduate coursework, you must read the department's graduate regulations.\nDepartment of Naval Architecture and Ocean Engineering Graduate Graduation Regulations (applicable to students admitted from September 2026) – Graduate Regulations – Graduate School – Seoul National University Department of Naval Architecture and Ocean Engineering\n\nD. For other matters (scholarships, dormitories, parking permits, completion of safety and environment training, registration of students with disabilities), please check the attached file.\nThe \"Laboratory Safety and Environment Training\" organised by the Environment and Safety Institute and the \"Respect for Life (Suicide Prevention) Training\" organised by the College of Engineering, which new graduate students must complete, will be announced later.\n\nAttachment (1 file): 2027학년도 대학원 전기모집 합격자 안내사항.hwp (124 KB) [Information for admitted applicants, 2027 early-round admission]. The content of this attachment was not read for this translation.",
+ "id": 21641,
+ "text_hash": "7e62436cece692f0",
+ "images": 0,
+ "attachments": [
+  "2027학년도 대학원 전기모집 합격자 안내사항.hwp"
+ ],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-26",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}
