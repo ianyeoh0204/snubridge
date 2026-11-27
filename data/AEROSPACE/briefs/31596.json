@@ -1,0 +1,58 @@
+{
+ "title_en": "ANCHOR Project 2026: Research Support and Academic Excellence Scholarships for Foreign STEM Graduate Students",
+ "summary": "Foreign graduate students (master's, doctoral and integrated master's-doctoral) enrolled in science and engineering departments who meet the eligibility conditions may apply for the ANCHOR Project Academic Research Support Scholarship and/or the Fall 2026 Academic Excellence Scholarship, each worth KRW 2,000,000. Applicants must email all required documents as a single zip file, named with their student ID and English name, to the address given in the original notice. The deadline is 11 December 2026 for the Research Support Scholarship and 15 January 2027 for the Academic Excellence Scholarship.",
+ "applies_to": "Foreign graduate students currently enrolled in science and engineering departments (master's, doctoral or integrated master's-doctoral program) who meet all of the following: admitted from Fall 2025 onward through the Global Special Admission; both the student and both parents hold foreign nationality; and graduated from a foreign university for their previous degree (graduates of Korean universities are excluded). These conditions are listed in a row shared by both scholarships. Applying is optional. The Academic Excellence Scholarship additionally requires a grade point average of 4.0 or higher. Science and engineering departments are asked to inform eligible students; the list of science and engineering departments is in Attachment 5.",
+ "dates": [
+  {
+   "what": "Application deadline for the Academic Research Support Scholarship",
+   "when": "By 11 December 2026",
+   "original_ko": "26년 12월 11일까지.",
+   "verified": true
+  },
+  {
+   "what": "Application deadline for the Academic Excellence Scholarship (Fall 2026)",
+   "when": "By 15 January 2027",
+   "original_ko": "27년 1월 15일까지.",
+   "verified": true
+  },
+  {
+   "what": "Semester covered by the Academic Excellence Scholarship",
+   "when": "Fall 2026",
+   "original_ko": "26학년도 2학기",
+   "verified": true
+  },
+  {
+   "what": "Eligibility: admitted from this semester onward through the Global Special Admission (both scholarships)",
+   "when": "Fall 2025 onward",
+   "original_ko": "2025학년도 2학기부터",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "You must meet all eligibility conditions; meeting only some of them does not qualify you.",
+  "You must have been admitted from Fall 2025 onward through the Global Special Admission.",
+  "You and both of your parents must hold foreign nationality.",
+  "You must have graduated from a foreign university; graduates of Korean universities are excluded.",
+  "The Academic Research Support Scholarship may be applied for only once during your period of enrollment.",
+  "The Academic Excellence Scholarship requires a grade point average of 4.0 or higher and may be applied for each semester.",
+  "All documents must be submitted together in one zip file named with your student ID and English name.",
+  "Applications are accepted by individual email only."
+ ],
+ "steps": [
+  "Check Attachment 5 (not read) to confirm that your department is a science and engineering department.",
+  "Academic Research Support Scholarship: Prepare the ANCHOR scholarship applicant personal details form (Attachment 3), the research support grant application form (Attachment 2), a certificate of entry and exit records (출입국사실증명서), a certificate of enrollment (재학증명서), copies of your Alien Registration Card and bankbook, and the personal information use consent form (Attachment 1).",
+  "Academic Research Support Scholarship: Put all documents into one zip file named with your student ID and English name, and email it to the address in the original notice by 11 December 2026.",
+  "Academic Excellence Scholarship: Prepare the ANCHOR scholarship applicant personal details form (Attachment 3), one transcript or personal grade report for the relevant semester (Fall 2026), a recommendation letter from your academic advisor (Attachment 4), a certificate of entry and exit records (출입국사실증명서), a certificate of enrollment (재학증명서), copies of your Alien Registration Card and bankbook, and the personal information use consent form (Attachment 1).",
+  "Academic Excellence Scholarship: Put all documents into one zip file named with your student ID and English name, and email it to the address in the original notice by 15 January 2027."
+ ],
+ "translation": "2026 ANCHOR Project Group: Notice on Payment of the Academic Research Support Grant and Academic Excellence Scholarship for Foreign Graduate Students in Science and Engineering\n\nCategory: Academic Research Support Scholarship | Academic Excellence Scholarship (Fall 2026)\n\nPurpose: To expand scholarship support so that outstanding foreign talent in advanced and future industry fields can concentrate on study and research without financial burden, thereby achieving the project plan goals of \"increasing scholarship benefits for international students\" and \"increasing on-campus support programs for international students.\"\n\nEligible: Foreign graduate students enrolled in science and engineering (master's, doctoral, integrated master's-doctoral program).\n\nEligibility conditions (all of the following must be met):\n- Foreign graduate students admitted from Fall 2025 onward through the Global Special Admission (both parents and the student hold foreign nationality).\n- Graduated from a foreign university as their previous institution (graduates of Korean universities are excluded).\n\nBenefit:\n- Academic Research Support Scholarship: KRW 2,000,000. May be applied for once during the period of enrollment.\n- Academic Excellence Scholarship: KRW 2,000,000. Grade point average of 4.0 or higher (may be applied for each semester).\n\nRequired documents:\nAcademic Research Support Scholarship:\n① ANCHOR scholarship applicant personal details [Attachment 3]\n② Research support grant application form [Attachment 2]\n③ Certificate of entry and exit records (출입국사실증명서)\n④ Certificate of enrollment (재학증명서)\n⑤ Copies of Alien Registration Card and bankbook\n⑥ Personal information use consent form [Attachment 1]\n\nAcademic Excellence Scholarship:\n① ANCHOR scholarship applicant personal details [Attachment 3]\n② One transcript or personal grade report for the relevant semester\n③ Academic advisor's recommendation letter [Attachment 4]\n④ Certificate of entry and exit records (출입국사실증명서)\n⑤ Certificate of enrollment (재학증명서)\n⑥ Copies of Alien Registration Card and bankbook\n⑦ Personal information use consent form [Attachment 1]\n\n※ Submit all documents as a single zip file (file name: student ID + English name).\n\nHow to apply: Individual application by email from the student (the email address is given in the original notice).\n\nApplication period:\n- Academic Research Support Scholarship: by 11 December 2026.\n- Academic Excellence Scholarship: by 15 January 2027.\n\nRequest for cooperation: Science and engineering departments are asked to contact and inform foreign graduate students who meet the above eligibility so that they can apply for the scholarships.\n※ The list of science and engineering departments can be found in [Attachment 5].\n\n(Note: Attachments 1 to 5 were not included in the text and were not read. For enquiries, contact the department office; contact details are in the original notice.)",
+ "id": 31596,
+ "text_hash": "6e64dd00b1cc3e57",
+ "images": 0,
+ "attachments": [],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-27",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

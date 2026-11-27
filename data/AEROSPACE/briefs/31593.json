@@ -1,0 +1,35 @@
+{
+ "title_en": "Call for Participants: National Science Museum Citizen Science Debate on Artificial Intelligence",
+ "summary": "The National Science Museum invites participants to the Citizen Participatory Science Debate: Artificial Intelligence Edition, held on Saturday, 12 December 2026, from 13:00 to 15:00 in Narae Hall at the National Science Museum. Participation is optional and open to high school students and above, including adults. Interested persons must reserve a place in advance, free of charge, through the museum website (www.science.go.kr).",
+ "applies_to": "Optional for anyone interested who is a high school student or above, up to and including adults. The notice does not limit participation by program, year of admission or nationality.",
+ "dates": [
+  {
+   "what": "Citizen Participatory Science Debate: Artificial Intelligence Edition, held at Narae Hall, National Science Museum",
+   "when": "Saturday, 12 December 2026, 13:00 to 15:00",
+   "original_ko": "2026. 12. 12.(토) 13:00 ~ 15:00",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "Advance reservation through the National Science Museum website is required to participate.",
+  "Participation is free of charge.",
+  "The event is open to high school students and above, including adults.",
+  "Participants who take part as panel members will receive a souvenir.",
+  "The notice does not state a reservation deadline."
+ ],
+ "steps": [
+  "Make an advance reservation, free of charge, on the National Science Museum website (www.science.go.kr).",
+  "Attend the debate at Narae Hall, National Science Museum, on Saturday, 12 December 2026, from 13:00 to 15:00.",
+  "For questions, contact the Industrial Technology Team of the National Science Museum; the contact details are in the original notice."
+ ],
+ "translation": "National Science Museum: Call for Participants in the \"Citizen Participatory Science Debate\" [시민 참여형 과학 대토론회]\n\nA. Event: Citizen Participatory Science Debate: Artificial Intelligence Edition\n\nB. Topic: The human domain in the face of advancing artificial intelligence: [Shrinking VS Expanding]\n\nC. Date, time and venue: Saturday, 12 December 2026, 13:00 to 15:00 / Narae Hall [나래홀], National Science Museum\n\nD. How to participate: Advance reservation through the museum website (www.science.go.kr, free of charge)\n\nE. Eligible participants: High school students and above, including adults. ※ Panel participants will receive a souvenir.\n\nF. Enquiries: Industrial Technology Team, National Science Museum (the contact details are in the original notice).",
+ "id": 31593,
+ "text_hash": "9a89945d65ea7b97",
+ "images": 0,
+ "attachments": [],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-27",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}

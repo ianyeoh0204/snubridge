@@ -1,0 +1,42 @@
+{
+ "title_en": "Call for Applicants: Winter 2027 IBS Trapped-Ion Quantum Science Research Internship",
+ "summary": "Undergraduate students in their third or fourth year, and students deferring graduation, in physics, optics, electronic engineering or a related field may apply for the Winter 2027 research internship at the Institute for Basic Science (IBS) Center for Trapped-Ion Quantum Science. Applicants must submit their academic transcript and résumé together by email to both addresses given in the original notice between 5 November and 30 November 2026. The internship runs from 1 January to 26 February 2027 at IBS headquarters, Building I, in Daejeon.",
+ "applies_to": "Optional (voluntary application). Open to currently enrolled third- and fourth-year undergraduate students, and students deferring graduation, in physics, optics, electronic engineering or related fields. Students on leave of absence and graduates are not eligible.",
+ "dates": [
+  {
+   "what": "Application period",
+   "when": "Thursday 5 November 2026 to Monday 30 November 2026",
+   "original_ko": "2026. 11. 5.(목)~11. 30.(월)",
+   "verified": true
+  },
+  {
+   "what": "Internship activity period (start date and participation schedule may be arranged individually)",
+   "when": "Friday 1 January 2027 to Friday 26 February 2027",
+   "original_ko": "2027. 1. 1.(금)~2. 26.(금)",
+   "verified": true
+  }
+ ],
+ "conditions": [
+  "Applicants must be third- or fourth-year undergraduates or students deferring graduation, in physics, optics, electronic engineering or a related field.",
+  "Students on leave of absence are not eligible.",
+  "Graduates are not eligible.",
+  "The transcript and résumé must be submitted together, to both email addresses given in the original notice.",
+  "The start date and participation schedule may be arranged individually with the research center."
+ ],
+ "steps": [
+  "Confirm that you are a currently enrolled third- or fourth-year undergraduate, or a student deferring graduation, in physics, optics, electronic engineering or a related field, and that you are not on leave of absence or a graduate.",
+  "Prepare your academic transcript and your résumé.",
+  "Between 5 November and 30 November 2026, send the transcript and résumé together in one submission to both email addresses listed in the original notice.",
+  "For questions, contact the program contact at the Center for Trapped-Ion Quantum Science; the contact details are in the original notice."
+ ],
+ "translation": "Call for Applicants: 2027 Winter Research Internship at the Institute for Basic Science (IBS) Center for Trapped-Ion Quantum Science\n\nA. Program: 2027 Winter IBS Center for Trapped-Ion Quantum Science Research Internship\n\nB. Eligibility: Currently enrolled third- and fourth-year undergraduate students, and students deferring graduation (졸업유예자), in physics, optics, electronic engineering and related fields (students on leave of absence and graduates are excluded).\n\nC. Application period: Thursday 5 November 2026 to Monday 30 November 2026.\n\nD. Activity period: Friday 1 January 2027 to Friday 26 February 2027. ※ The start date and participation schedule may be arranged individually.\n\nE. Location: Institute for Basic Science (IBS) headquarters, Building I (55 Expo-ro, Yuseong-gu, Daejeon).\n\nF. Main research activities:\n1) Learning the principles of optical resonators (optical cavities), and building and aligning them\n2) Measuring resonance signals and analysing the data\n3) Monitoring and stabilising laser frequency\n\nG. How to apply: Submit your academic transcript and résumé together to both of the two email addresses given in the original notice.\n\nH. Enquiries: The program contact at the Center for Trapped-Ion Quantum Science (the phone number and email address are given in the original notice).",
+ "id": 31592,
+ "text_hash": "4772a90db9ac80bd",
+ "images": 0,
+ "attachments": [],
+ "model": "claude-opus-5-5",
+ "written": "2026-11-27",
+ "prompt": 2,
+ "titles": 0,
+ "revised": false
+}
